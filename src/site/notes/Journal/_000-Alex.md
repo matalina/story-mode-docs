@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/000-alex/"}
+{"dg-publish":true,"permalink":"/journal/000-alex/","pinned":true}
 ---
 
 # Alex
