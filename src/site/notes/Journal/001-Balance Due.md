@@ -38,6 +38,8 @@ Wealth, Moan, Endanger
 **Roll:** Who goes first? 1 - Nox, 2 - Alex
 1d2: [1] = 1
 
+## Day 1
+
 **Time of Day**: Afternoon  
 (1d4: [2] = 2)
 
@@ -54,7 +56,7 @@ Wealth, Moan, Endanger
 (1d8: [5] = 5)
 
 ***
-## Nox
+### Nox
 
 _Situation is beyond all control_  
 **Scene Status:** Chaos 6 (18)
@@ -120,7 +122,7 @@ Refuse pit, Costume, Unnatural
 
 9am the next day.
 
-## Alex
+### Alex
 
 _Events require players to be on high alert_  
 **Scene Status:** Unstable 4 (12)
@@ -182,3 +184,15 @@ Benjamin affirms it and proposes, "If you want it. You can have it. It's a bitch
 "How fast?"  
   
 "Yesterday." Benjamin laughs. "So tomorrow should be fine. Don't be too late."
+
+***
+## Day 2
+
+Thursday - Day 1 after full moon - winter season - morning
+
+**Weather**: Overcast  
+(1d20: [16] = 16)
+
+***
+### Nox
+
