@@ -30,25 +30,26 @@
 |9|Government building evacuation in progress|
 |10|Anonymous tipster looking for someone to listen|
 
-|d20|Descriptors|
-|---|---|
-|1|Bureaucratic|
-|2|Austere|
-|3|Crowded|
-|4|Watchful|
-|5|Orderly|
-|6|Cold|
-|7|Ornate|
-|8|Historic|
-|9|Monolithic|
-|10|Secure|
-|11|Grand|
-|12|Controlled|
-|13|Political|
-|14|Structured|
-|15|Traditional|
-|16|Formal|
-|17|Restrictive|
-|18|Influential|
-|19|Official|
-|20|Intimidating|
+| d20 | Descriptors  | Street Name       |
+| --- | ------------ | ----------------- |
+| 1   | Bureaucratic | Capitol Way       |
+| 2   | Austere      | Sovereign Avenue  |
+| 3   | Crowded      | Executive Terrace |
+| 4   | Watchful     | Monument Street   |
+| 5   | Orderly      | Unity Boulevard   |
+| 6   | Cold         | Council Crescent  |
+| 7   | Ornate       | Liberty Promenade |
+| 8   | Historic     | Parliament Plaza  |
+| 9   | Monolithic   | Civic Pathway     |
+| 10  | Secure       | Constitution Road |
+| 11  | Grand        | Magistrate Lane   |
+| 12  | Controlled   | Founders Walk     |
+| 13  | Political    | Diplomat Drive    |
+| 14  | Structured   | Regalia Square    |
+| 15  | Traditional  | Patron Court      |
+| 16  | Formal       | Justice Hill      |
+| 17  | Restrictive  | Governor’s Row    |
+| 18  | Influential  | Assembly Court    |
+| 19  | Official     | Dominion Way      |
+| 20  | Intimidating | Senate Passage    |
+

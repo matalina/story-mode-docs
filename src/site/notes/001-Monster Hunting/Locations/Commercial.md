@@ -30,26 +30,26 @@
 | 9   | A street performer causing a crowd to gather |
 | 10  | A store alarm blaring in the distance        |
 
-| d20 | Descriptor     |
-| --- | -------------- |
-| 1   | Bustling       |
-| 2   | Sleek          |
-| 3   | Crowded        |
-| 4   | Neon-Lit       |
-| 5   | Gritty         |
-| 6   | Trendy         |
-| 7   | Towering       |
-| 8   | Labyrinthine   |
-| 9   | Glitzy         |
-| 10  | Noisy          |
-| 11  | Corporate      |
-| 12  | Expensive      |
-| 13  | Rundown        |
-| 14  | Overwhelming   |
-| 15  | Futuristic     |
-| 16  | Claustrophobic |
-| 17  | Historic       |
-| 18  | Chaotic        |
-| 19  | Flashy         |
-| 20  | Shadowy        |
+| d20 | Descriptor     | Street Names      |
+| --- | -------------- | ----------------- |
+| 1   | Bustling       | Market Row        |
+| 2   | Sleek          | Lantern Street    |
+| 3   | Crowded        | Copper Lane       |
+| 4   | Neon-Lit       | Merchant’s Walk   |
+| 5   | Gritty         | Gilded Way        |
+| 6   | Trendy         | Ironworks Avenue  |
+| 7   | Towering       | Riverstone Road   |
+| 8   | Labyrinthine   | Silver Crest Blvd |
+| 9   | Glitzy         | Velvet Alley      |
+| 10  | Noisy          | Clocktower Square |
+| 11  | Corporate      | Grand Exchange    |
+| 12  | Expensive      | Horizon Street    |
+| 13  | Rundown        | Sunflare Avenue   |
+| 14  | Overwhelming   | Jasper Promenade  |
+| 15  | Futuristic     | Bastion Street    |
+| 16  | Claustrophobic | Founder’s Way     |
+| 17  | Historic       | Ember Lane        |
+| 18  | Chaotic        | Concord Plaza     |
+| 19  | Flashy         | Crown Street      |
+| 20  | Shadowy        | Timberline Avenue |
 

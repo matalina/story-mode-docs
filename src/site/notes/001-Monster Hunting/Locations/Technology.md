@@ -30,25 +30,26 @@
 |9|A self-driving car causing a commotion|
 |10|VR headset causing someone to panic|
 
-|d20|Descriptors|
-|---|---|
-|1|High-tech|
-|2|Sleek|
-|3|Neon-lit|
-|4|Clean|
-|5|Innovative|
-|6|Futuristic|
-|7|Hyper-connected|
-|8|Crowded|
-|9|Digitalized|
-|10|Smart|
-|11|Minimalist|
-|12|Glass-and-steel|
-|13|Automated|
-|14|Virtual|
-|15|Holographic|
-|16|Noisy|
-|17|Cutting-edge|
-|18|Energized|
-|19|Busy|
-|20|State-of-the-art|
+| d20 | Descriptors      | Street Name        |
+| --- | ---------------- | ------------------ |
+| 1   | High-tech        | Silicon Way        |
+| 2   | Sleek            | Circuit Drive      |
+| 3   | Neon-lit         | Data Stream Avenue |
+| 4   | Clean            | Byte Boulevard     |
+| 5   | Innovative       | Quantum Lane       |
+| 6   | Futuristic       | Pixel Path         |
+| 7   | Hyper-connected  | Innovation Street  |
+| 8   | Crowded          | Code Alley         |
+| 9   | Digitalized      | Nexus Road         |
+| 10  | Smart            | Nanotech Boulevard |
+| 11  | Minimalist       | Gridlock Crescent  |
+| 12  | Glass-and-steel  | Virtual Parkway    |
+| 13  | Automated        | Binary Drive       |
+| 14  | Virtual          | Microchip Street   |
+| 15  | Holographic      | Fiberoptics Avenue |
+| 16  | Noisy            | Server Lane        |
+| 17  | Cutting-edge     | Cloudstreet        |
+| 18  | Energized        | Cyberspace Circle  |
+| 19  | Busy             | Tesla Trail        |
+| 20  | State-of-the-art | Electron Alley     |
+

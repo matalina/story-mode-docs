@@ -17,25 +17,26 @@
 |9|Private Marina & Yacht Club|
 |10|Elite International School|
 
-|d20|Descriptors|
-|---|---|
-|1|Opulent|
-|2|Exclusive|
-|3|Gated|
-|4|Elegant|
-|5|Pristine|
-|6|Lavish|
-|7|Expensive|
-|8|Picturesque|
-|9|Quiet|
-|10|Manicured|
-|11|Ornate|
-|12|Secure|
-|13|Sophisticated|
-|14|Wealthy|
-|15|Remote|
-|16|Secluded|
-|17|Glamorous|
-|18|Stylish|
-|19|Prestigious|
-|20|Heavily Guarded|
+| d20 | Descriptors     | Street Name          |
+| --- | --------------- | -------------------- |
+| 1   | Opulent         | Regal Avenue         |
+| 2   | Exclusive       | Emerald Lane         |
+| 3   | Gated           | Grandview Boulevard  |
+| 4   | Elegant         | Kensington Drive     |
+| 5   | Pristine        | Sapphire Crescent    |
+| 6   | Lavish          | Noblesse Parkway     |
+| 7   | Expensive       | Versailles Way       |
+| 8   | Picturesque     | Ivy Ridge            |
+| 9   | Quiet           | Bellemont Street     |
+| 10  | Manicured       | Monarch Court        |
+| 11  | Ornate          | Crestwood Place      |
+| 12  | Secure          | Laurel Grove         |
+| 13  | Sophisticated   | Prestige Lane        |
+| 14  | Wealthy         | Crystal Shores Drive |
+| 15  | Remote          | Windsor Walk         |
+| 16  | Secluded        | Manor Hill Road      |
+| 17  | Glamorous       | Starlight Avenue     |
+| 18  | Stylish         | Summit View Drive    |
+| 19  | Prestigious     | Havenwood Boulevard  |
+| 20  | Heavily Guarded | Opal Terrace         |
+

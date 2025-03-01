@@ -30,25 +30,26 @@
 |9|A group of masked individuals sneaking into a facility|
 |10|A stray dog or cat wandering through the scrapyard|
 
-|d20|Descriptors|
-|---|---|
-|1|Gritty|
-|2|Smoggy|
-|3|Heavy-duty|
-|4|Loud|
-|5|Polluted|
-|6|Industrial|
-|7|Gloomy|
-|8|Rundown|
-|9|Metallic|
-|10|Expansive|
-|11|Stark|
-|12|Gated|
-|13|Mechanical|
-|14|Hazardous|
-|15|Active|
-|16|Isolated|
-|17|Rust-covered|
-|18|Oil-stained|
-|19|Functional|
-|20|Labyrinthine|
+| d20 | Descriptors  | Street Name          |
+| --- | ------------ | -------------------- |
+| 1   | Gritty       | Ironclad Avenue      |
+| 2   | Smoggy       | Factory Lane         |
+| 3   | Heavy-duty   | Steelworks Boulevard |
+| 4   | Loud         | Coalburn Road        |
+| 5   | Polluted     | Forge Street         |
+| 6   | Industrial   | Rivet Row            |
+| 7   | Gloomy       | Assembly Line Drive  |
+| 8   | Rundown      | Foundry Place        |
+| 9   | Metallic     | Gearbox Alley        |
+| 10  | Expansive    | Machinist Street     |
+| 11  | Stark        | Smelting Way         |
+| 12  | Gated        | Industrial Parkway   |
+| 13  | Mechanical   | Powerplant Lane      |
+| 14  | Hazardous    | Freight Junction     |
+| 15  | Active       | Boiler Room Road     |
+| 16  | Isolated     | Hammerforge Drive    |
+| 17  | Rust-covered | Pitworks Road        |
+| 18  | Oil-stained  | Kiln Street          |
+| 19  | Functional   | Chainlink Way        |
+| 20  | Labyrinthine | Crankshaft Crescent  |
+

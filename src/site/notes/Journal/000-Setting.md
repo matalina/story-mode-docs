@@ -6,18 +6,39 @@
 
 New Everlight - Low Magic, High Technology
 
-|     |     1     |     2     |     3     |     4     |     5     |     6      |     7     |     8      |      9      |     10      |
-| :-: | :-------: | :-------: | :-------: | :-------: | :-------: | :--------: | :-------: | :--------: | :---------: | :---------: |
-|  1  | [[Journal/000-Setting#1.1\|#1.1]]  | [[Journal/000-Setting#1.2\|#1.2]]  | [[Journal/000-Setting#1.3\|#1.3]]  | [[Journal/000-Setting#1.4\|#1.4]]  | [[Journal/000-Setting#1.5\|#1.5]]  |  [[Journal/000-Setting#1.6\|#1.6]]  | [[Journal/000-Setting#1.7\|#1.7]]  |  [[Journal/000-Setting#1.8\|#1.8]]  |  [[Journal/000-Setting#1.9\|#1.9]]   |  [[Journal/000-Setting#1.10\|#1.10]]  |
-|  2  | [[Journal/000-Setting#2.1\|#2.1]]  | [[Journal/000-Setting#2.2\|#2.2]]  | [[Journal/000-Setting#2.3\|#2.3]]  | [[Journal/000-Setting#2.4\|#2.4]]  | [[Journal/000-Setting#2.5\|#2.5]]  |  [[Journal/000-Setting#2.6\|#2.6]]  | [[Journal/000-Setting#2.7\|#2.7]]  |  [[Journal/000-Setting#2.8\|#2.8]]  |  [[Journal/000-Setting#2.9\|#2.9]]   |  [[Journal/000-Setting#2.10\|#2.10]]  |
-|  3  | [[Journal/000-Setting#3.1\|#3.1]]  | [[Journal/000-Setting#3.2\|#3.2]]  | [[Journal/000-Setting#3.3\|#3.3]]  | [[Journal/000-Setting#3.4\|#3.4]]  | [[Journal/000-Setting#3.5\|#3.5]]  |  [[Journal/000-Setting#3.6\|#3.6]]  | [[Journal/000-Setting#3.7\|#3.7]]  |  [[Journal/000-Setting#3.8\|#3.8]]  | [[Journal/000-Setting#3.9\|#3.9]] I  | [[Journal/000-Setting#3.10\|#3.10]] F |
-|  4  | [[Journal/000-Setting#4.1\|#4.1]]  | [[Journal/000-Setting#4.2\|#4.2]]  | [[Journal/000-Setting#4.3\|#4.3]]  | [[Journal/000-Setting#4.4\|#4.4]]  | [[Journal/000-Setting#4.5\|#4.5]]  | [[Journal/000-Setting#4.6\|#4.6]] S | [[Journal/000-Setting#4.7\|#4.7]]  |  [[Journal/000-Setting#4.8\|#4.8]]  |  [[Journal/000-Setting#4.9\|#4.9]]   |  [[Journal/000-Setting#4.10\|#4.10]]  |
-|  5  | [[Journal/000-Setting#5.1\|#5.1]]  | [[Journal/000-Setting#5.2\|#5.2]]  | [[Journal/000-Setting#5.3\|#5.3]]  | [[Journal/000-Setting#5.4\|#5.4]]  | [[Journal/000-Setting#5.5\|#5.5]]  |  [[Journal/000-Setting#5.6\|#5.6]]  | [[Journal/000-Setting#5.7\|#5.7]]  |  [[Journal/000-Setting#5.8\|#5.8]]  |  [[Journal/000-Setting#5.9\|#5.9]]   |  [[Journal/000-Setting#5.10\|#5.10]]  |
-|  6  | [[Journal/000-Setting#6.1\|#6.1]]  | [[Journal/000-Setting#6.2\|#6.2]]  | [[Journal/000-Setting#6.3\|#6.3]]  | [[Journal/000-Setting#6.4\|#6.4]]  | [[Journal/000-Setting#6.5\|#6.5]]  | [[Journal/000-Setting#6.6\|#6.6]] G | [[Journal/000-Setting#6.7\|#6.7]]  |  [[Journal/000-Setting#6.8\|#6.8]]  |  [[Journal/000-Setting#6.9\|#6.9]]   |  [[Journal/000-Setting#6.10\|#6.10]]  |
-|  7  | [[Journal/000-Setting#7.1\|#7.1]]  | [[Journal/000-Setting#7.2\|#7.2]]  | [[Journal/000-Setting#7.3\|#7.3]]  | [[Journal/000-Setting#7.4\|#7.4]]  | [[Journal/000-Setting#7.5\|#7.5]]  |  [[Journal/000-Setting#7.6\|#7.6]]  | [[Journal/000-Setting#7.7\|#7.7]]  |  [[Journal/000-Setting#7.8\|#7.8]]  |  [[Journal/000-Setting#7.9\|#7.9]]   |  [[Journal/000-Setting#7.10\|#7.10]]  |
-|  8  | [[Journal/000-Setting#8.1\|#8.1]]  | [[Journal/000-Setting#8.2\|#8.2]]  | [[Journal/000-Setting#8.3\|#8.3]]  | [[Journal/000-Setting#8.4\|#8.4]]  | [[Journal/000-Setting#8.5\|#8.5]]  |  [[Journal/000-Setting#8.6\|#8.6]]  | [[Journal/000-Setting#8.7\|#8.7]]  |  [[Journal/000-Setting#8.8\|#8.8]]  |  [[Journal/000-Setting#8.9\|#8.9]]   |  [[Journal/000-Setting#8.10\|#8.10]]  |
-|  9  | [[Journal/000-Setting#9.1\|#9.1]]  | [[Journal/000-Setting#9.2\|#9.2]]  | [[Journal/000-Setting#9.3\|#9.3]]  | [[Journal/000-Setting#9.4\|#9.4]]  | [[Journal/000-Setting#9.5\|#9.5]]  |  [[Journal/000-Setting#9.6\|#9.6]]  | [[Journal/000-Setting#9.7\|#9.7]]  | [[Journal/000-Setting#9.8\|#9.8]] A |  [[Journal/000-Setting#9.9\|#9.9]]   |  [[Journal/000-Setting#9.10\|#9.10]]  |
-| 10  | [[Journal/000-Setting#10.1\|#10.1]] | [[Journal/000-Setting#10.2\|#10.2]] | [[Journal/000-Setting#10.3\|#10.3]] | [[Journal/000-Setting#10.4\|#10.4]] | [[Journal/000-Setting#10.5\|#10.5]] | [[Journal/000-Setting#10.6\|#10.6]]  | [[Journal/000-Setting#10.7\|#10.7]] | [[Journal/000-Setting#10.8\|#10.8]]  | [[Journal/000-Setting#10.9\|#10.9]] N |  [[Journal/000-Setting#0.10\|#0.10]]  |
+|        |   1 (A)    |   2 (C)   |   3 (E)   |   4 (G)   |   5 (I)   |   6 (K)    |   7 (M)   |   8 (O)    |    9 (Q)    |   10 (S)    |
+| :----: | :--------: | :-------: | :-------: | :-------: | :-------: | :--------: | :-------: | :--------: | :---------: | :---------: |
+| 1 (B)  | [[Journal/000-Setting#1.1\|#1.1]] C | [[Journal/000-Setting#1.2\|#1.2]]  | [[Journal/000-Setting#1.3\|#1.3]]  | [[Journal/000-Setting#1.4\|#1.4]]  | [[Journal/000-Setting#1.5\|#1.5]]  |  [[Journal/000-Setting#1.6\|#1.6]]  | [[Journal/000-Setting#1.7\|#1.7]]  |  [[Journal/000-Setting#1.8\|#1.8]]  |  [[Journal/000-Setting#1.9\|#1.9]]   |  [[Journal/000-Setting#1.10\|#1.10]]  |
+| 2 (D)  |  [[Journal/000-Setting#2.1\|#2.1]]  | [[Journal/000-Setting#2.2\|#2.2]]  | [[Journal/000-Setting#2.3\|#2.3]]  | [[Journal/000-Setting#2.4\|#2.4]]  | [[Journal/000-Setting#2.5\|#2.5]]  |  [[Journal/000-Setting#2.6\|#2.6]]  | [[Journal/000-Setting#2.7\|#2.7]]  |  [[Journal/000-Setting#2.8\|#2.8]]  |  [[Journal/000-Setting#2.9\|#2.9]]   |  [[Journal/000-Setting#2.10\|#2.10]]  |
+| 3 (F)  |  [[Journal/000-Setting#3.1\|#3.1]]  | [[Journal/000-Setting#3.2\|#3.2]]  | [[Journal/000-Setting#3.3\|#3.3]]  | [[Journal/000-Setting#3.4\|#3.4]]  | [[Journal/000-Setting#3.5\|#3.5]]  |  [[Journal/000-Setting#3.6\|#3.6]]  | [[Journal/000-Setting#3.7\|#3.7]]  |  [[Journal/000-Setting#3.8\|#3.8]]  | [[Journal/000-Setting#3.9\|#3.9]] I  | [[Journal/000-Setting#3.10\|#3.10]] F |
+| 4 (H)  |  [[Journal/000-Setting#4.1\|#4.1]]  | [[Journal/000-Setting#4.2\|#4.2]]  | [[Journal/000-Setting#4.3\|#4.3]]  | [[Journal/000-Setting#4.4\|#4.4]]  | [[Journal/000-Setting#4.5\|#4.5]]  | [[Journal/000-Setting#4.6\|#4.6]] S | [[Journal/000-Setting#4.7\|#4.7]]  |  [[Journal/000-Setting#4.8\|#4.8]]  |  [[Journal/000-Setting#4.9\|#4.9]]   |  [[Journal/000-Setting#4.10\|#4.10]]  |
+| 5 (J)  |  [[Journal/000-Setting#5.1\|#5.1]]  | [[Journal/000-Setting#5.2\|#5.2]]  | [[Journal/000-Setting#5.3\|#5.3]]  | [[Journal/000-Setting#5.4\|#5.4]]  | [[Journal/000-Setting#5.5\|#5.5]]  |  [[Journal/000-Setting#5.6\|#5.6]]  | [[Journal/000-Setting#5.7\|#5.7]]  |  [[Journal/000-Setting#5.8\|#5.8]]  |  [[Journal/000-Setting#5.9\|#5.9]]   |  [[Journal/000-Setting#5.10\|#5.10]]  |
+| 6 (L)  |  [[Journal/000-Setting#6.1\|#6.1]]  | [[Journal/000-Setting#6.2\|#6.2]]  | [[Journal/000-Setting#6.3\|#6.3]]  | [[Journal/000-Setting#6.4\|#6.4]]  | [[Journal/000-Setting#6.5\|#6.5]]  | [[Journal/000-Setting#6.6\|#6.6]] G | [[Journal/000-Setting#6.7\|#6.7]]  |  [[Journal/000-Setting#6.8\|#6.8]]  |  [[Journal/000-Setting#6.9\|#6.9]]   |  [[Journal/000-Setting#6.10\|#6.10]]  |
+| 7 (N)  |  [[Journal/000-Setting#7.1\|#7.1]]  | [[Journal/000-Setting#7.2\|#7.2]]  | [[Journal/000-Setting#7.3\|#7.3]]  | [[Journal/000-Setting#7.4\|#7.4]]  | [[Journal/000-Setting#7.5\|#7.5]]  |  [[Journal/000-Setting#7.6\|#7.6]]  | [[Journal/000-Setting#7.7\|#7.7]]  |  [[Journal/000-Setting#7.8\|#7.8]]  |  [[Journal/000-Setting#7.9\|#7.9]]   |  [[Journal/000-Setting#7.10\|#7.10]]  |
+| 8 (P)  |  [[Journal/000-Setting#8.1\|#8.1]]  | [[Journal/000-Setting#8.2\|#8.2]]  | [[Journal/000-Setting#8.3\|#8.3]]  | [[Journal/000-Setting#8.4\|#8.4]]  | [[Journal/000-Setting#8.5\|#8.5]]  |  [[Journal/000-Setting#8.6\|#8.6]]  | [[Journal/000-Setting#8.7\|#8.7]]  |  [[Journal/000-Setting#8.8\|#8.8]]  |  [[Journal/000-Setting#8.9\|#8.9]]   |  [[Journal/000-Setting#8.10\|#8.10]]  |
+| 9 (R)  |  [[Journal/000-Setting#9.1\|#9.1]]  | [[Journal/000-Setting#9.2\|#9.2]]  | [[Journal/000-Setting#9.3\|#9.3]]  | [[Journal/000-Setting#9.4\|#9.4]]  | [[Journal/000-Setting#9.5\|#9.5]]  |  [[Journal/000-Setting#9.6\|#9.6]]  | [[Journal/000-Setting#9.7\|#9.7]]  | [[Journal/000-Setting#9.8\|#9.8]] A |  [[Journal/000-Setting#9.9\|#9.9]]   |  [[Journal/000-Setting#9.10\|#9.10]]  |
+| 10 (T) | [[Journal/000-Setting#10.1\|#10.1]]  | [[Journal/000-Setting#10.2\|#10.2]] | [[Journal/000-Setting#10.3\|#10.3]] | [[Journal/000-Setting#10.4\|#10.4]] | [[Journal/000-Setting#10.5\|#10.5]] | [[Journal/000-Setting#10.6\|#10.6]]  | [[Journal/000-Setting#10.7\|#10.7]] | [[Journal/000-Setting#10.8\|#10.8]]  | [[Journal/000-Setting#10.9\|#10.9]] N |  [[Journal/000-Setting#0.10\|#0.10]]  |
+
+### District Types
+
+| d20   | Location Type            |
+| ----- | ------------------------ |
+| 1     | Government District      |
+| 2     | University               |
+| 3     | Subways System           |
+| 4     | Park District            |
+| 5     | Downtown                 |
+| 6     | High Class Residential   |
+| 7     | Middle Class Residential |
+| 8     | Slums                    |
+| 9     | Commercial District      |
+| 10    | Warehouse District       |
+| 11    | Industrial District      |
+| 12    | Entertainment District   |
+| 13    | Financial District       |
+| 14    | Technology District      |
+| 15    | Medical Park             |
+| 16-20 | Roll again               |
 
 ## Commercial District
 
@@ -193,6 +214,12 @@ d2 | Technology District
 
 ## 1.1 
 Warehouse District
+
+_Remote and Rundown_
+
+Points of Interest:
+* Café Noir on Goods Drive - gritty, dangerous
+
 ## 1.2 
 Industrial District
 ## 1.3 
@@ -283,6 +310,10 @@ Point of Interest
 
 > [!note] 
 > The subway system can be accessed from any other point on the map. You can reach any other point on the map by coming to this block and then going to the other block.
+> 
+> A line runs both north/south and east/west through each district
+
+
 
 ## 4.7 
 Slums
@@ -386,6 +417,13 @@ Middle Class Residential
 Warehouse District
 ## 9.4 
 Industrial District
+
+_Isolated and Smoggy_
+
+Points of Interest:
+* The Rusted Pavilion, abandoned, gritty, retro-fitted train station
+
+
 ## 9.5 
 Warehouse District
 ## 9.6 

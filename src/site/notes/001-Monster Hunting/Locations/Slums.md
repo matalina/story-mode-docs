@@ -30,25 +30,26 @@
 |9|Someone tailing you|
 |10|A sudden blackout hits the area|
 
-|d20|Descriptors|
-|---|---|
-|1|Crumbling|
-|2|Overcrowded|
-|3|Graffiti-stained|
-|4|Gritty|
-|5|Smog-filled|
-|6|Filthy|
-|7|Dimly-lit|
-|8|Foul-smelling|
-|9|Damp|
-|10|Noisy|
-|11|Violent|
-|12|Desperate|
-|13|Shadowy|
-|14|Oppressive|
-|15|Unpoliced|
-|16|Tense|
-|17|Labyrinthine|
-|18|Unstable|
-|19|Decaying|
-|20|Isolated|
+| d20 | Descriptors      | Street Name           |
+| --- | ---------------- | --------------------- |
+| 1   | Crumbling        | Shanty Row            |
+| 2   | Overcrowded      | Rust Alley            |
+| 3   | Graffiti-stained | Broken Street         |
+| 4   | Gritty           | Wreckage Way          |
+| 5   | Smog-filled      | Tattered Lane         |
+| 6   | Filthy           | Skid Row              |
+| 7   | Dimly-lit        | Cracked Pavement Road |
+| 8   | Foul-smelling    | Filth Lane            |
+| 9   | Damp             | Grit Alley            |
+| 10  | Noisy            | Smog Street           |
+| 11  | Violent          | Ragged Walk           |
+| 12  | Desperate        | Dirtwater Avenue      |
+| 13  | Shadowy          | Blight Road           |
+| 14  | Oppressive       | Hollow Way            |
+| 15  | Unpoliced        | Rotton Lane           |
+| 16  | Tense            | Soot Alley            |
+| 17  | Labyrinthine     | Scrapyard Street      |
+| 18  | Unstable         | Desolate Drive        |
+| 19  | Decaying         | The Pit               |
+| 20  | Isolated         | Dead End Boulevard    |
+

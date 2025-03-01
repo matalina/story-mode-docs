@@ -30,26 +30,26 @@
 | 9   | A suspicious van parked near a theater       |
 | 10  | A scavenger hunt event beginning in the park |
 
-| d20 | Descriptor      |
-| --- | --------------- |
-| 1   | Neon-Soaked     |
-| 2   | Electric        |
-| 3   | Pulsating       |
-| 4   | Flashy          |
-| 5   | Trendy          |
-| 6   | Overstimulating |
-| 7   | Crowded         |
-| 8   | Glamorous       |
-| 9   | Exclusive       |
-| 10  | Noisy           |
-| 11  | Hypnotic        |
-| 12  | Chaotic         |
-| 13  | Sleek           |
-| 14  | Sultry          |
-| 15  | Mysterious      |
-| 16  | High-Energy     |
-| 17  | Gritty          |
-| 18  | Lively          |
-| 19  | Opulent         |
-| 20  | Shadowy         |
+| d20 | Descriptor      | Street Name        |
+| --- | --------------- | ------------------ |
+| 1   | Neon-Soaked     | Neon Row           |
+| 2   | Electric        | Marquee Street     |
+| 3   | Pulsating       | Limelight Avenue   |
+| 4   | Flashy          | Twilight Promenade |
+| 5   | Trendy          | Midnight Alley     |
+| 6   | Overstimulating | Glimmer Street     |
+| 7   | Crowded         | Emberlight Way     |
+| 8   | Glamorous       | Stardust Lane      |
+| 9   | Exclusive       | Echelon Strip      |
+| 10  | Noisy           | Radiance Boulevard |
+| 11  | Hypnotic        | Pulse Avenue       |
+| 12  | Chaotic         | Echo Street        |
+| 13  | Sleek           | Velvet Walk        |
+| 14  | Sultry          | Luster Lane        |
+| 15  | Mysterious      | Gilded Row         |
+| 16  | High-Energy     | Arcadia Street     |
+| 17  | Gritty          | Crescendo Avenue   |
+| 18  | Lively          | Mirage Court       |
+| 19  | Opulent         | Aurora Drive       |
+| 20  | Shadowy         | Harmony Row        |
 

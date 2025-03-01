@@ -30,25 +30,26 @@
 |9|A group of med students nervously discussing a diagnosis|
 |10|A therapy dog gets loose and runs down the hallways|
 
-|d20|Descriptors|
-|---|---|
-|1|Sterile|
-|2|Bustling|
-|3|Clinical|
-|4|Hopeful|
-|5|Overcrowded|
-|6|Quiet|
-|7|Sanitized|
-|8|High-tech|
-|9|Lifesaving|
-|10|Tense|
-|11|Chaotic|
-|12|Fluorescent-lit|
-|13|Strict|
-|14|Comforting|
-|15|Sympathetic|
-|16|Research-driven|
-|17|Emergency-prone|
-|18|Organized|
-|19|Depressing|
-|20|Hope-inspiring|
+| d20 | Descriptors     | Street Name          |
+| --- | --------------- | -------------------- |
+| 1   | Sterile         | Healing Way          |
+| 2   | Bustling        | Wellness Avenue      |
+| 3   | Clinical        | Care Lane            |
+| 4   | Hopeful         | Remedy Road          |
+| 5   | Overcrowded     | St. Claire Boulevard |
+| 6   | Quiet           | Vitality Drive       |
+| 7   | Sanitized       | Hope Street          |
+| 8   | High-tech       | Lifeline Way         |
+| 9   | Lifesaving      | Recovery Circle      |
+| 10  | Tense           | Wellness Parkway     |
+| 11  | Chaotic         | Radiance Road        |
+| 12  | Fluorescent-lit | Cure Court           |
+| 13  | Strict          | Compassion Crescent  |
+| 14  | Comforting      | Precision Lane       |
+| 15  | Sympathetic     | Healing Grove        |
+| 16  | Research-driven | Harmony Boulevard    |
+| 17  | Emergency-prone | Vital View Drive     |
+| 18  | Organized       | Remedy Way           |
+| 19  | Depressing      | MediCare Drive       |
+| 20  | Hope-inspiring  | Miracles Boulevard   |
+

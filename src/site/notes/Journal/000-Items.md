@@ -44,7 +44,7 @@ Tool
 
 A portable, multifunctional device combining a mobile phone, camera and a computer.  The device can be used for a variety of modern tasks with different apps.  Research and navigation are eased when you possess a smart phone.  Additional apps may be added for specific things.  The smartphone can only have 5 additional apps installed that ease actions other than research and navigation. A user may uninstall and install another app but it will take a minimum of 2 rounds to complete the swap.
 
-Smartphones in New Everlight contain access to your identification and your finances.
+Smartphones in New Everlight contain access to your identification and your finances and can fully replace a laptop or desktop computer with their built in one way holographic screens and keyboards.
 
 ## Spell-blade of the Fallen
 Light weapon

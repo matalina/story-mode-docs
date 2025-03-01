@@ -31,25 +31,26 @@
 |9|A neighbor helping someone carry groceries|
 |10|A food delivery driver struggling to find an address|
 
-|d20|Descriptors|
-|---|---|
-|1|Suburban|
-|2|Cozy|
-|3|Family-friendly|
-|4|Bustling|
-|5|Community-driven|
-|6|Modest|
-|7|Tree-lined|
-|8|Walkable|
-|9|Friendly|
-|10|Safe|
-|11|Middle-income|
-|12|Lively|
-|13|Comfortable|
-|14|Laid-back|
-|15|Affordable|
-|16|Slightly worn-down|
-|17|Nostalgic|
-|18|Practical|
-|19|Balanced|
-|20|Diverse|
+| d20 | Descriptors        | Street Name        |
+| --- | ------------------ | ------------------ |
+| 1   | Suburban           | Maple Avenue       |
+| 2   | Cozy               | Oakwood Drive      |
+| 3   | Family-friendly    | Pinecrest Lane     |
+| 4   | Bustling           | Brookstone Drive   |
+| 5   | Community-driven   | Rosewood Street    |
+| 6   | Modest             | Willow Grove       |
+| 7   | Tree-lined         | Cedar Ridge Road   |
+| 8   | Walkable           | Hawthorne Lane     |
+| 9   | Friendly           | Birchwood Way      |
+| 10  | Safe               | Foxglove Street    |
+| 11  | Middle-income      | Meadowbrook Drive  |
+| 12  | Lively             | Sunnyside Circle   |
+| 13  | Comfortable        | Bluebell Way       |
+| 14  | Laid-back          | Gardenview Road    |
+| 15  | Affordable         | Ivy Hill Lane      |
+| 16  | Slightly worn-down | Crestwood Drive    |
+| 17  | Nostalgic          | Silverstone Avenue |
+| 18  | Practical          | Chestnut Lane      |
+| 19  | Balanced           | Willowbrook Road   |
+| 20  | Diverse            | Rosehill Drive     |
+

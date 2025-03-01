@@ -30,25 +30,26 @@
 |9|Overworked employee collapses|
 |10|News crew reporting breaking scandal|
 
-|d20|Descriptors|
-|---|---|
-|1|Towering|
-|2|Glassy|
-|3|Corporate|
-|4|Bustling|
-|5|Sleek|
-|6|Overcrowded|
-|7|Impersonal|
-|8|Wealthy|
-|9|High-Tech|
-|10|Cold|
-|11|Noisy|
-|12|Exclusive|
-|13|Shadowy|
-|14|Intimidating|
-|15|Labyrinthine|
-|16|Expensive|
-|17|Fast-Paced|
-|18|Opulent|
-|19|Prestigious|
-|20|Ruthless|
+| d20 | Descriptors  | Street Names       |
+| --- | ------------ | ------------------ |
+| 1   | Towering     | Sterling Avenue    |
+| 2   | Glassy       | Gilded Way         |
+| 3   | Corporate    | Ledger Street      |
+| 4   | Bustling     | Vault Row          |
+| 5   | Sleek        | Dividend Drive     |
+| 6   | Overcrowded  | Ironclad Boulevard |
+| 7   | Impersonal   | Apex Plaza         |
+| 8   | Wealthy      | Goldleaf Street    |
+| 9   | High-Tech    | Pinnacle Row       |
+| 10  | Cold         | Prosperity Avenue  |
+| 11  | Noisy        | Fortune Street     |
+| 12  | Exclusive    | Equity Lane        |
+| 13  | Shadowy      | Exchequer Road     |
+| 14  | Intimidating | Commerce Street    |
+| 15  | Labyrinthine | Crown Heights      |
+| 16  | Expensive    | Arbitrage Alley    |
+| 17  | Fast-Paced   | Prestige Plaza     |
+| 18  | Opulent      | Capital Way        |
+| 19  | Prestigious  | Granite Promenade  |
+| 20  | Ruthless     | Titan’s Walk       |
+

@@ -31,26 +31,26 @@
 | 10  | A mysterious figure offering strange items   |
 
 
-| d20 | Descriptor   |
-| --- | ------------ |
-| 1   | Bustling     |
-| 2   | Towering     |
-| 3   | Crowded      |
-| 4   | Neon-Lit     |
-| 5   | Corporate    |
-| 6   | Historic     |
-| 7   | Chaotic      |
-| 8   | Labyrinthine |
-| 9   | Expensive    |
-| 10  | Industrial   |
-| 11  | Gritty       |
-| 12  | Sleek        |
-| 13  | Overwhelming |
-| 14  | Noisy        |
-| 15  | Cosmopolitan |
-| 16  | Shadowy      |
-| 17  | Fast-Paced   |
-| 18  | Trendy       |
-| 19  | Impersonal   |
-| 20  | Flashy       |
+| d20 | Descriptor   | Street Names        |
+| --- | ------------ | ------------------- |
+| 1   | Bustling     | Everlight Avenue    |
+| 2   | Towering     | Halcyon Street      |
+| 3   | Crowded      | Gilded Chain Blvd   |
+| 4   | Neon-Lit     | Fairstone Promenade |
+| 5   | Corporate    | Beacon Row          |
+| 6   | Historic     | Argent Street       |
+| 7   | Chaotic      | Twilight Market     |
+| 8   | Labyrinthine | Obsidian Way        |
+| 9   | Expensive    | Founder’s Square    |
+| 10  | Industrial   | Aurum Lane          |
+| 11  | Gritty       | Echelon Street      |
+| 12  | Sleek        | Holloway Row        |
+| 13  | Overwhelming | Shadowcross Avenue  |
+| 14  | Noisy        | Starlit Boulevard   |
+| 15  | Cosmopolitan | Emberlight Court    |
+| 16  | Shadowy      | Verdant Walk        |
+| 17  | Fast-Paced   | Celestial Drive     |
+| 18  | Trendy       | Radiance Row        |
+| 19  | Impersonal   | Skyline Parkway     |
+| 20  | Flashy       | Sentinel Street     |
 

@@ -11,6 +11,13 @@ Benjamin Qualls is a Level 6 human blood-bound Ritualist who Binds Creatures to 
 
 Leader of the [[Journal/000-Lore#The Ironbound Hunters\|The Ironbound Hunters]]
 
+## Eleanor Price
+Eleanor Price is a Level 2 empathetic executive assistant who knows too many secrets.
+
+**Disposition:** Gracious (6.1)
+
+Executive Assistant to Victor Langley at Langley & Associates
+
 ## Lucian Vaelric
 Lucian Vaelric is a Level 10 ingenious faerie who Makes Binding Pacts with mortals.
 
