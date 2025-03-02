@@ -89,11 +89,13 @@ Nox answered the phone "Back Booth Bureau where every case starts with a cup of 
 **Roll:** 1.1 on which street?
 1d20: [12] = 12
 
-**Roll:** Goods Drive. Two descriptor words2d20: [4, 11] = 15
+**Roll:** Goods Drive. Two descriptor words
+2d20: [4, 11] = 15
 
 gritty, dangerous
 
-**Roll:** District description2d20: [5, 12] = 17
+**Roll:** District description
+2d20: [5, 12] = 17
 
 "It's just Nox. It's best we talk in person. What would be a good time to meet you at Café Noir on Goods Drive?"
 
@@ -105,7 +107,8 @@ Refuse pit, Costume, Unnatural
 
 **AI:** The Rusted Pavilion – An abandoned train station turned meeting place for those who don’t want to be overheard.
 
-**Roll:** Which Industrial District1d12: [9] = 9
+**Roll:** Which Industrial District
+1d12: [9] = 9
 
 9.4
 
@@ -196,3 +199,101 @@ Thursday - Day 1 after full moon - winter season - morning
 ***
 ### Nox
 
+_Events are underway and are proceeding as expected_  
+**Scene Status:** Stable 2 (6)
+
+**Do:** Is Nox on schedule? (part of his obsessive trait is staying on schedule)**Success, and** [2(6) → 20]  
+Foot, Toss, Proof
+
+**Q:** Nox is running ahead of schedule. Takes the Q train north to the R Train to the Rusted Pavilion and is early.  
+  
+Does he find a table he likes?**No, but** _(1d20: [4] = 4)_  
+Turgid, Enchanted, Unsafe
+
+The table he is able to find is one of the overly elaborate enchanted booths to keep the the riff-raff from eavesdropping.
+
+**Q:** Is Eleanor late?**No, but** _(1d20: [4] = 4)_  
+Decayed, Government, Captive
+
+**Q:** Eleanor is late but she is accompanied by a grisled older man who gives off a strange aura.  
+  
+Is Eleanor a captive?**No, but** _(1d20: [5] = 5)_  
+Admissio, Secure, Twisted
+
+The man with her is a necromancer she hired to keep her safe from whatever she is here to discuss.
+
+**Q:** Does Nox know the necromancer?**No, but** _(1d20: [5] = 5)_  
+Contradict, Dream, Rambling
+
+**Roll:** Nox has heard of the man. He is is an unpredictable, rambling necromancer who can manifest spirt dreams and memories.  
+  
+What is his name?2d10 + 2d10: [4, 8]+[4, 6] = 22
+
+Jude Long
+
+**Roll:** Jude's disposition:2d6: [4, 4] = 8
+
+Reasonable
+
+**Q:** Eleanor sits down in the booth and Jude Long stands outside the enchantment giving them privacy.  
+  
+"So, Ms. Price. Tell me what's going on?" Nox says.  
+  
+Does Eleanor come straight out with it?**No, but** _(1d20: [9] = 9)_  
+Structure, Communion, Heat
+
+**Do:** Eleanor is nervous. She's looking around like she's waiting for something to happen.  
+  
+Nox tries to make a connection between the spirit necromancer and Ms. Price.**Success, and** [2(6) → 13]  
+Seat, Champion, Slide
+
+**Do:** Nox invites Jude to sit. "Why has Ms. Price hired you?"  
+  
+Convince Jude to talk to him**Success, but** [2(6) → 5]  
+Noise, Weird, Fire
+
+Jude starts telling Nox about the strange things going on around the office, and the cryptic message left on the wall. But as he's telling the story there is a strange sound and then a fire bursts out in the Rusted Pavilion.
+
+**Do:** Nox immediately hopes up and tries to put out the fire.  
+  
+"Hey sweetheart," he says as he pulled the Spell-blade of the Fallen from his hip. "Can we put out these fires?"  
+  
+Use the dryad's power to douse the flames by creating water.  
+  
+Is Rowan willing?**Success** [2(6) → 7]
+
+**Do:** Douse the Flames**Success, and** [2(6) → 17]  
+Priest, Explosion, Operation
+
+**Q:** Nox succesfully douses the flames before the fire spread to the old oil tankers nearby. An old priest is nearby tending to any wounds.  
+  
+Does he have anything to say about the unexplained fire?**No, but** _(1d20: [6] = 6)_  
+Code, Unsophisticated, Smoke
+
+**Q:** The priest helps those with smoke inhalation and helps Elenoar and Jude to a safe space.  
+  
+Nox follows and joins the pair. "Want to tell me what that's all about?"  
+  
+Does the fire have anything to do with Ms. Price situation?**No, but** _(1d20: [9] = 9)_  
+Gamble, Music, Curse
+
+**Q:** "I think there is a curse following me." she exclaimed.  
+  
+The necromancer nodded in agreement. "Something is fishy with the employees at Langley and Associates."  
+  
+Has Nox read the article?**Yes** _(1d20: [16] = 16)_
+
+**Q:** "Do you think these two things are related?"  
+  
+Do they?**Yes** _(1d20: [16] = 16)_
+
+**Q:** "Let's talk about payment." Nox says.  
+  
+Does Elenaor offer money?**Yes, and** _(1d20: [20] = 20)_  
+Protection, Information, Goods
+
+Elenaor offers to pay Nox a handsome some as well as provide him with the everything she knows about Mr. Langley, and what they were doing in the building as well as offers Jude Long's services and protection.  
+  
+Nox agrees.
+
+### Alex

@@ -18,6 +18,13 @@ Eleanor Price is a Level 2 empathetic executive assistant who knows too many sec
 
 Executive Assistant to Victor Langley at Langley & Associates
 
+## Jude Long
+Jude Long is a Level 2 unpredictable, rambling necromancer who can manifest spirt dreams and memories.
+
+**Disposition:** Reasonable (4.4)
+
+Necromancer hired by [[Journal/000-NPCs#Eleanor Price\|#Eleanor Price]]
+
 ## Lucian Vaelric
 Lucian Vaelric is a Level 10 ingenious faerie who Makes Binding Pacts with mortals.
 
