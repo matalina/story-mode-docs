@@ -8,6 +8,12 @@ Player makes all rolls.
 * A player rolls to attack.  
 * A player rolls to defend when a creature attacks.
 
+A player can take 1 action and move a short distance on their turn in any given round.
+
+At any time a player may quicken any action increasing the level of the task/check but allowing 2 actions in one round.  The task/check required for both actions is increased by one.
+
+Each round a player may make one reaction to some event that happens while it is not their turn such as counter a spell or block an attack against an ally from a close creature.
+
 ## Initiative
 
 Creatures initiative is determined by 3 times there level (their DC). 

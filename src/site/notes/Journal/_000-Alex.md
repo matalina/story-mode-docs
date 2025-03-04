@@ -44,9 +44,10 @@ Equipment: _Max Capacity → 10_
 * (empty)
 * (empty)
 
-**Relationships:**
-* [[Journal/000-NPCs#Benjamin Qualls\|Benjamin Qualls]]: Measured (3.5) → Knows Alex as a Human Bounty Hunter.
-* [[Journal/000-NPCs#Lucian Vaelric\|Lucian Vaelric]]: Level-headed (4.2) → Knows Alex as a Half-blood Influencer and made a deal with Alex
+**Relationships/Faction:**
+* [[Journal/000-Lore#The Ironbound Hunters\|The Ironbound Hunters]]: Reliable companion (+1.+1) → Employed by
+* [[Journal/000-NPCs#Benjamin Qualls\|Benjamin Qualls]]: Close Friend (+3.0) → Knows Alex as a Human Bounty Hunter.
+* [[Journal/000-NPCs#Lucian Vaelric\|Lucian Vaelric]]: Bitter Rivalry (0.-3)  → Knows Alex as a Half-blood Influencer and made a deal with Alex
 
 > [!note]
 > Alex does not have the strengths nor weaknesses of the creature forms who he takes on.

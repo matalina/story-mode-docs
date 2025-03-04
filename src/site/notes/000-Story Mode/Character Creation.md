@@ -29,8 +29,10 @@ Characters are assumed to have two known locations
 * Their residence -- a small apartment anywhere in the city
 * Their place of employ -- if a character works from home you may choose a co-work location or some other known territory to work from ie: coffee shop, public library, colocation work center
     
-Characters may start in one faction if their background suggests it, or is considered their place of employment ie: city government or a bounty hunter association.
+Characters may start in one faction if their background suggests it, or is considered their place of employment (ie: city government or a bounty hunter association). The character should have a starting relationship with their faction that is up to two steps from _indifferent_ (0.0) 
 
 Characters should start with a Character Arc -- something they are trying to achieve.
+
+A character may have up to three known NPCs (family, employers, contacts, etc.).  Assign each known NPC a relationship status up to three steps away from _indifferent_ (0.0).
 
 

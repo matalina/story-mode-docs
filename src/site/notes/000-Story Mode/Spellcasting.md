@@ -11,22 +11,32 @@ A default base spell has the following properties.
 **Level:** 5 (15)
 **Range:** Short distance
 **Damage:** 1 harm
+**Effect:** 1 effect
 **Area of Effect:** single
 **Targets:** 1
 **Duration:** 1 Round
 **Cast Time:** 1 action
 
+> [!note]
+> A spell may have either a damage or effect. Adding the other costs +1  to the level plus any other modifiers.
+> 
+> A spell may have either a number of targets or any area of effect and cannot have both.
+
 The chart below details how each option changes the level of the spell increasing the difficulty of it.  A spell's level cannot go above level 10 when creating it.
 
-| DC             | -3     | -2      | -1      | Starting | +1                       | +2                         | +3         | +4    |
-| -------------- | ------ | ------- | ------- | -------- | ------------------------ | -------------------------- | ---------- | ----- |
-| Level          |        |         |         | 5        |                          |                            |            |       |
-| Range          |        | Touch   | Close   | Short    | Far                      | Very Far                   | Same Plane |       |
-| Damage         |        |         |         | 1 harm   | 2 harm                   | 3 harm                     | 4 harm     |       |
-| Area of Effect |        |         | self    | single   | close in front of caster | short circle around target |            |       |
-| Targets        |        |         |         | 1        | 2                        | 3                          | 4          | 5     |
-| Duration       |        |         | instant | 1 round  | 1 minute                 | 10 minutes                 | 1 hour     | 1 day |
-| Cast Time      | 1 hour | 10 mins | 1 min   | 1 action | instant                  |                            |            |       |
+| DC             | -3     | -2      | -1      | Starting      | +1                       | +2                         | +3         | +4      |
+| -------------- | ------ | ------- | ------- | ------------- | ------------------------ | -------------------------- | ---------- | ------- |
+| Level          |        |         |         | 5             |                          |                            |            |         |
+| Range          |        | Touch   | Close   | Short         | Far                      | Very Far                   | Same Plane |         |
+| Damage         |        |         |         | 1 harm        | 2 harm                   | 3 harm                     | 4 harm     | 1 wound |
+| Effect         |        |         |         | 1 effect      | 2 effect                 | 3 effect                   |            |         |
+| Area of Effect |        |         |         | single target | short in front of caster | short circle around target |            |         |
+| Targets        |        |         | self    | 1             | 2                        | 3                          | 4          | 5       |
+| Duration       |        |         | instant | 1 round       | 1 minute                 | 10 minutes                 | 1 hour     | 1 day   |
+| Cast Time      | 1 hour | 10 mins | 1 min   | 1 action      | quickened action         | instant                    |            |         |
+| Evocation      |        |         |         | 1             | 2                        | 3                          |            |         |
+| Domain         |        |         |         | 1             | 2                        | 3                          |            |         |
+
 
 ## Spells
 
@@ -64,3 +74,37 @@ When casting a spell you will also need to detail how you are casting it. Are yo
 - **Plants** – Growth, decay, toxins
 - **Time** – Speed, age, fate
 - **Space** – Distance, teleportation, barriers
+### Examples
+
+#### Fireball
+
+Create & Move Fire
+
+**Level:** 9 (27)
+**Range:** long distance (+1)
+**Damage:** 2 harm (+1)
+**Area of Effect:** short area around target (+2)
+**Duration:** instant (-1)
+**Cast Time:** 1 action
+
+### Healing Word
+
+Enhance Body
+
+**Level:** 4 (12)
+**Range:** Short distance
+**Damage:** 1 harm
+**Targets:** 1
+**Duration:** instant (-1)
+**Cast Time:** 1 action
+
+### Counterspell
+
+Banish Time
+
+**Level:** Level of the Original Spell cast +1
+**Range:** Short distance
+**Effect:** Counters the spell cast, basically rewinding time
+**Targets:** 1
+**Duration:** instant (-1)
+**Cast Time:** instant (+2)
