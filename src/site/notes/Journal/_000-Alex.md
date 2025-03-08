@@ -9,6 +9,7 @@
 * Alternate Persona: **Alex Kaelis** is a \[charismatic] \[half-blood] \[Influencer] who \[Slays Myths].
 
 ***
+* (background)
 * Has a Silver Tongue (A voice that could charm or manipulate anyone/influencer)
 * Slays Myths
 * (tag)
@@ -25,12 +26,14 @@
 **Faction:** [[Journal/000-Lore#The Ironbound Hunters\|The Ironbound Hunters]]
 
 **Harm:** ♥♥♥♥♥
-**Wounds:**
-* (empty) → ☼☼☼
-* (empty) → ☼☼☼
-* (empty) → ☼☼☼
-* (empty) → ☼☼☼
-* (empty) → ☼☼☼
+
+| Wound | Severity | Safe Rests to Healed (☼) |
+| ----- | -------- | ------------------------ |
+|       |          |                          |
+|       |          |                          |
+|       |          |                          |
+|       |          |                          |
+|       |          |                          |
 
 Equipment: _Max Capacity → 10_
 * [[Journal/000-Items#Iron-bite Revolver\|Iron-bite Revolver]]: medium weapon, ranged, cold iron
