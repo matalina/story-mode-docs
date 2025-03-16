@@ -11,9 +11,14 @@
 * **Technology:** High Technology -- technology and science exist and are easy to come-by 
     * **Access:** Everyone has access
 
+**Location Tags:** 
+* While creatures not native to the Iron Veil in New Everlight visit, the **Chill of Iron** tag always applies.
+* While creatures not native to the Nether visit, the **Whispering Dread** tag always applies.
+* While creatures not native to The Wyld visit, the **Echoes of Laughter** tag always applies.
+
 ## New Everlight
 
-New Everlight is a modern city in today's world with the exception that magic is real, everyone knows it exists but it is not accessible to everyone. New Everlight has the same technology that exists today with the addition of magic. New Everlight is a big US city like New York, Los Angelas and Chicago. There are underlying factions. There is the Faerie Mound, which connects New Everlight to the Wyld. And a Shadow Rift that connects it to the Nether. Supernatural creatures dwell in the shadows, and some even right out in the open. 
+New Everlight is a modern city in today's world with the exception that magic is real, everyone knows it exists but it is not accessible to everyone. New Everlight has the same technology that exists today with the addition of magic. New Everlight is a big US city like New York, Los Angeles and Chicago. There are underlying factions. There is the Faerie Mound, which connects New Everlight to the Wyld. And a Shadow Rift that connects it to the Nether. Supernatural creatures dwell in the shadows, and some even right out in the open. 
 
 |        |   1 (A)    |   2 (C)   |   3 (E)   |   4 (G)   |   5 (I)   |   6 (K)    |   7 (M)   |   8 (O)    |    9 (Q)    |   10 (S)    |
 | :----: | :--------: | :-------: | :-------: | :-------: | :-------: | :--------: | :-------: | :--------: | :---------: | :---------: |
@@ -263,6 +268,12 @@ Middle Class Residential
 Slums
 #### 8.10
 Slums
+
+_Noisy and Unstable_
+
+Points of Interest:
+* Starlight Apartments ([[Actual Play/000-Lore#The Razorborn\|The Razorborn]] Hideout) - tense, desperate
+
 ### Twilight Row
 #### 8.1 
 Entertainment District
@@ -289,7 +300,13 @@ Slums
 Slums
 ### The Ironworks
 #### 8.4 
-Slums
+Warehouse District
+
+_Noisy and Industrial_
+
+Points of Interest:
+* Pinnacle Freight ([[Actual Play/000-Lore#The Hellraisers\|The Hellraisers]] HQ) - quiet, oppressive
+
 #### 8.5 
 Warehouse District
 #### 9.4 
@@ -299,6 +316,8 @@ _Isolated and Smoggy_
 
 Points of Interest:
 * The Rusted Pavilion - abandoned, gritty, retro-fitted train station
+* [[Actual Play/000-Lore#The Ashen Legion\|The Ashen Legion]] Compound - hazardous, expansive
+
 #### 9.5 
 Industrial District
 #### 9.6 
@@ -311,8 +330,8 @@ Middle Class Residential
 _Bustling and Comfortable_
 
 Points of Interest
-* Alex's Apartment - Bustling, Middle-income
 * Public Library - Safe, Diverse
+* [[Actual Play/000-Lore#The Flame Wardens\|The Flame Wardens]] Compound - community-driven, affordable → Alex's Home
 
 #### 9.9 
 Entertainment District

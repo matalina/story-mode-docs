@@ -31,8 +31,13 @@ Conjured Weapon
 
 A personal weapon only useable by the conjurer.  The weapons can be of any size, shape or type but it is always considered a medium weapon. It can not take the form of a ranged weapon, unless that weapon is thrown.
 
-Activation: Kyrth dor'ashka (Forge shadow blade)
-Deactivation: Shen dor'ashka (End shadow blade)
+**Activation:** Kyrth dor'ashka (Forge shadow blade)
+**Deactivation:** Shen dor'ashka (End shadow blade)
+
+## Monster Hunter Kit
+Tool
+
+A stash of commonly used items to hunt and kill items.  Including, but not limited to, lockpicks, silver and iron bullets, salt, holy water, flash light, matches, lighter fluid, and wolfsbane.
 
 ## Ring of Mortal Veil
 Magic Item
@@ -43,8 +48,8 @@ A thin band of tarnished silver that shifts between deep violet and dull gold. O
 
 The ring hides the wearers true eyes, hair and skin color allowing the wearer to blend in.
 
-Activation: Veylan mor shek (Let the veil remain)
-Deactivation: Veylan saelen (Let the veil rest)
+**Activation:** Veylan morshek (Let the veil remain)
+**Deactivation:** Veylan saelen (Let the veil rest)
 
 ## Silver Bullets
 Ammunition

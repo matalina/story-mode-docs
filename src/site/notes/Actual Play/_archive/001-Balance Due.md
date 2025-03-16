@@ -7,7 +7,7 @@
 **Roll:** Rolling for Motive and Creature  
 1d10 + 1d6: [6]+[1] = 7
 
-**Creature:** [[001-Monster Hunter Setting/Creatures/Ghost-Spirit\|Ghost/Spirit]]
+**Creature:** [[001-Monster Hunter/Creatures/Ghost-Spirit\|Ghost/Spirit]]
 **Motive:** Obsession
 
 **Q:** What is the Ghost Obsessed with?  

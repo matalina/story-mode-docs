@@ -4,49 +4,106 @@
 
 # NPCs
 
-## Benjamin Qualls
-Benjamin Qualls is a Level 6 human blood-bound Ritualist who Binds Creatures to their will.
+## B
+
+### Benjamin Qualls
+Benjamin Qualls is a Level 6 Ferai blood-bound Ritualist who Binds Creatures to their will.
 
 **Disposition:** Measured (3.5)
 
 Leader of the [[Actual Play/000-Lore#The Ironbound Hunters\|The Ironbound Hunters]]
 
-## Eleanor Price
-Eleanor Price is a Level 2 empathetic executive assistant who knows too many secrets.
+### Blaze
+See [[Actual Play/000-NPCs#Kyle Bennett\|#Kyle Bennett]]
 
-**Disposition:** Gracious (6.1)
+## F
 
-Executive Assistant to Victor Langley at Langley & Associates
+### Freya Alaric
+?
 
-## Jude Long
-Jude Long is a Level 2 unpredictable, rambling necromancer who can manifest spirt dreams and memories.
+**Disposition:**
 
-**Disposition:** Reasonable (4.4)
+Leader of the [[Actual Play/000-Lore#The Flame Wardens\|The Flame Wardens]]
 
-Necromancer hired by [[Actual Play/000-NPCs#Eleanor Price\|#Eleanor Price]]
+## K
 
-## Lucian Vaelric
-Lucian Vaelric is a Level 10 ingenious faerie who Makes Binding Pacts with Mortals.
+### Kaelith Vale
+?
+
+**Disposition:**
+
+Leader of the [[Actual Play/000-Lore#The Ashen Legion\|The Ashen legion]]
+
+### Kyle Bennett
+? 
+
+**Disposition:**
+
+Leader of [[Actual Play/000-Lore#The Hellraisers\|The Hellraisers]]
+
+### Khyreel
+?
+
+**Disposition:** 
+
+Nox's Imaginary Friend
+
+## L
+
+### Lucian Vaelric
+Lucian Vaelric is a Level 10 ingenious Aelith who Makes Binding Pacts with Mortals.
 
 **Disposition:** Level-headed (4.2)
 
 Leader of the [[Actual Play/000-Lore#The Gilded Chain\|The Gilded Chain]]
 
-## Nyssara Myrris
+## M
+
+### Maya Cross
+?
+
+**Disposition:**
+
+Leader of [[Actual Play/000-Lore#The Razorborn\|The Razorborn]]
+
+## N
+
+### Nyssara Myrris
 Nyssara Myrris is a Level 10 cunning Noctari who Whispers Secrets in The Shadows.
 
-Leader of the Shadowborn
+Leader of [[Actual Play/000-Lore#The Shadowborn\|The Shadowborn]] aka [[Actual Play/000-NPCs#The Shadow Witch\|#The Shadow Witch]]
 
-## Tristan York
-Tristan York is the Level 5 optimistic human mayor of New Everlight who Took a Gift from The Whispered Hand.
+## S
+
+### The Shadow Witch
+See [[Actual Play/000-NPCs#Nyssara Myrris\|#Nyssara Myrris]]
+
+## T
+
+### Tristan York
+Tristan York is the Level 5 optimistic Ferai mayor of New Everlight who Took a Gift from The Whispered Hand.
 
 **Disposition:** Level-headed (4.2)
 
 Leader of the [[Actual Play/000-Lore#New Everlight Government\|New Everlight Government]]
 
-## Varian Thorne
-Varian Thorne is a Level 10 trickster faerie who Grants Favors for an unspecified price.
+## V
+
+### Varian Thorne
+Varian Thorne is a Level 10 trickster Aelith who Grants Favors for an unspecified price.
 
 **Disposition:** Hostile (1.1)
 
 Leader of the [[Actual Play/000-Lore#The Whispered Hand\|The Whispered Hand]]
+
+### Verek Sarthan
+?
+
+**Disposition:**
+
+Leader of [[Actual Play/000-Lore#The Gloomweavers\|The Gloomweavers]] aka The Weaver of Nightmares
+
+## W
+
+### The Weaver of Nightmares
+See [[Actual Play/000-NPCs#Verek Sarthan\|#Verek Sarthan]]

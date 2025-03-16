@@ -4,10 +4,16 @@
 
 # Character Creation
 
-Create a Character sentence: \[Name] is a \[descriptor] \[species\descriptor] \[type] who \[does something].  
+A Character in Story Mode is a collection of tags that can ease or hinder game play. 
+
+Your character sentence is laid out in the following format and all tags are in bold:
+
+\[Name] is a **\[descriptor]** **\[species]** **\[type]** who **\[does something]**.  
+
+All tags in your character sentence are [[000-Mechanics/999-Glossary#^6ca8a3\|Umbrella Tags]].  Umbrella tags house other tags underneath them and mean much more than the single word or phrase they represent.
 
 > [!note]
-> If you wish to be a human you may select a second descriptor otherwise your second descriptor should be your species.
+> If you wish to be a human you may select a second descriptor otherwise your second descriptor should be your species. Some Settings may have a Human or Human like descriptor.
 
 > [!example]
 > * Eldrin is a cunning elven rogue who weaves shadows into deadly blades
@@ -15,7 +21,7 @@ Create a Character sentence: \[Name] is a \[descriptor] \[species\descriptor] \[
 > * Vex-7 is a rogue AI bounty hunter who tracks fugitives.
 > * Dr. Alistair Cogsworth is an eccentric clockwork engineer who builds automatons.
 
-Chose one tag that represents your background.  This can be a specific part of your type, or it can be something else on another spectrum, but it should be something meaningful that plays a big part of who you were.
+Chose one tag that represents your background.  This can be a specific part of your type, or it can be something else on another spectrum, but it should be something meaningful that plays a big part of who you are.
 
 Choose up to 5 additional tags that describe your characters abilities and additional background. 
 
@@ -34,7 +40,7 @@ Characters start with a weapon of choice, armor of choice, and should select a s
 Characters are assumed to have two known locations
 * Their residence
 * Their place of employ or similar location
-    
+
 Characters should start with a Character Arc -- something they are trying to achieve.
 
 Characters may start in one faction if their background suggests it, or is considered their place of employment (ie: city government or a bounty hunter association). The character should have a starting relationship with their faction that is up to two steps from _indifferent_.

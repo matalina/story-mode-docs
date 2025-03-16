@@ -41,6 +41,10 @@ The oracle table is a specialized Level 5 Check with a DC of 15.  Ask a Yes or N
 | 15-19 | Yes      | Yes                              |
 | 20    | Yes, and | Yes, and things are better       |
 
+## Player vs Player
+
+When a contested roll against two players characters happens both a d20 and add +1 for any tag that eases the roll, add -1 for any tag that hinders the roll. The higher of the two totals wins the contest.
+
 ### Inspiration
 
 | d8  | Table        |

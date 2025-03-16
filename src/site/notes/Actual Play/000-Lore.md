@@ -7,28 +7,32 @@
 ## Realms
 
 ### The Iron Veil
-the faerie name for the mortal realm
+The name for The Mortal Realm by which all species call it except the Ferai who refer to it as "Earth", and call themselves "Human".
 
-## The Mortal Realm
-the real world -- modern day circa **today**
+### The Mortal Realm
+The real world -- modern day circa **today**
 
-**Predominant Race:** Humans
+**Predominant Race:** Ferai (Human)
 
-## The Nether
-a dark realm full of chaos and shadows
+### The Nether
+A dark realm full of despair and shadows
 
 **Predominate Race:** Noctari (Shadow Elf)
 
-### The Wyld
-a wild and magical realm full of whimsy and fantasy
+While creatures not native to the Nether visit, the **Whispering Dread** tag always applies.
 
-**Predominant Race:** Faerie (Fey Elf)
+### The Wyld
+A wild and magical realm full of whimsy and fantasy
+
+**Predominant Race:** Aelith (Fey Elf)
+
+While creatures not native to The Wyld visit, the **Echoes of Laughter** tag always applies.
 
 ## History
 
 ### The Revelation
 
-On July 4, 1984 magic was revealed to the world through a televised broadcast when magic transported a young boy into Everlight Commons Park breaking the veil between worlds and a tiny portion of the Wyld erupted through the rift created before the boy returned home.  This event became know as The Revelation
+On July 4, 1984 magic was revealed to the world through a televised broadcast when magic transported a young boy into Everlight Commons Park breaking the veil between worlds and a tiny portion of the Wyld erupted through the rift created before the boy returned home. After which during the remaining chaos a Dragon took flight revealing the existence of the Drakari. This event became know as The Revelation. 
 
 ## Factions
 
@@ -46,18 +50,18 @@ Crime Syndicate
 
 A crime syndicate whose major platform is all sorts of illicit trafficking -- from weapons, drugs, people and even magic.
 
-**Leader:**
+**Leader:** [[Actual Play/000-NPCs#Maya Cross\|Maya Cross]]
 
-**Location:** 
+**Location:** Starlight Apartments @ [[Actual Play/000-Setting#8.10\|8.10]]
 
 ### The Hellraisers
 Crime Syndicate
 
 A crime syndicate rivaling [[Actual Play/000-Lore#The Razorborn\|#The Razorborn]] in platform but with the intent of disruption as mush as profit.
 
-**Leader:**
+**Leader:** [[Actual Play/000-NPCs#Kyle Bennett\|Kyle Bennett]] aka Blaze
 
-**Location:** 
+**Location:** Pinnacle Freight @ [[Actual Play/000-Setting#8.4\|8.4]]
 
 ### The Ironbound Hunters
 Bounty Hunter's Association
@@ -69,40 +73,55 @@ The Ironbound Hunters is an organization of who contract out bounties to their e
 **Location:** Commercial District @ [[Actual Play/000-Setting#3.9\|3.9]]
 
 ### The Gilded Chain
-Faerie Court
+Aelith Court
 
-These faerie believe every promise must be kept and all debts are paid. They operate with blood-signed contracts.
+These Aelith believe every promise must be kept and all debts are paid. They operate with blood-signed contracts.
 
 **Leader:** [[Actual Play/000-NPCs#Lucian Vaelric\|Lucian Vaelric]]
 
 **Location:** Faerie Mound @ [[Actual Play/000-Setting#3.10\|3.10]]
 
-
 ### The Whispered Hand
-Faerie Court
+Aelith Court
 
-These faerie grant favors without demanding an immediate price, allowing debts to accumulate until one day they collect full fold.
+These Aelith grant favors without demanding an immediate price, allowing debts to accumulate until one day they collect full fold.
 
 **Leader:** [[Actual Play/000-NPCs#Varian Thorne\|Varian Thorne]]
 
 **Location:** Faerie Mound @ [[Actual Play/000-Setting#3.10\|3.10]]
 
 ### The Gloomweavers
-Noctari Court
+Noctari Shroud
 
 These Noctari grant power and wealth that comes with inevitable price that everything unravels over time.
 
-**Leader:** The Weaver of Nightmares
+**Leader:** [[Actual Play/000-NPCs#Verek Sarthan\|Varek Sarthan]], The Weaver of Nightmares
 
-**Location:** Shadow Rift @ 9.1
+**Location:** Shadow Rift @ [[Actual Play/000-Setting#9.1\|9.1]]
 
 ### The Shadowborn
-Noctari Court
+Noctari Shroud
 
 These Noctari believe revealing secrets, forbidden knowledge and what is hidden in the darkness is dangerous and those that seek it will slowly be corrupted.
 
-**Leader:** Nyssara Myrris, The Shadow Witch
+**Leader:** [[Actual Play/000-NPCs#Nyssara Myrris\|Nyssara Myrris]], The Shadow Witch
 
-**Location:** Shadow Rift @ 9.1
+**Location:** Shadow Rift @ [[Actual Play/000-Setting#9.1\|9.1]]
 
+### The Ashen Legion
+Drakari Clan
 
+The Ashen Legion believe that with The Revelation, the time has come for the Drakari to claim their rightful dominance, for only through fire and conquest can the world be reforged under their reign.
+
+**Leader:** [[Actual Play/000-NPCs#Kaelith Vale\|Kaelith Vale]]
+
+**Location:** Compound @ [[Actual Play/000-Setting#9.4\|9.4]]
+
+### The Flame Wardens
+Drakari Clan
+
+The Flame Wardens believe that the Drakari must remain vigilant protectors, guarding the world from unseen threats, for only through restraint can true balance be maintained.
+
+**Leader:** [[Actual Play/000-NPCs#Freya Alaric\|Freya Alaric]]
+
+**Location:** Compound @ [[Actual Play/000-Setting#9.8\|9.8]]
