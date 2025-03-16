@@ -16,8 +16,8 @@ Alex is a **charismatic** **Drakari** **Bounty Hunter** who **Made a Pact with a
 * Seeks Pleasure and Luxury
 
 **Weapons:** 
-* [[Actual Play/000-Items#Iron-bite Revolver\|Iron-bite Revolver]] loaded with [[Actual Play/000-Items#Cold Iron Bullets\|Cold Iron Bullets]] (medium)
-* [[Actual Play/000-Items#Chameleon's Fang\|Chameleon's Fang]] (light)
+* [[Actual Play/000-Items#Iron-bite Revolver\|Iron-bite Revolver]] loaded with [[Actual Play/000-Items#Cold Iron Bullets\|Cold Iron Bullets]]
+* [[Actual Play/000-Items#Chameleon's Fang\|Chameleon's Fang]]
 **Armor:** [[Actual Play/000-Items#Enchanted Leather Duster\|Enchanted Leather Duster]] (medium)
 
 **Wealth:** 3
@@ -52,26 +52,23 @@ Equipment: _Max Capacity → 10_
 * [[Actual Play/000-NPCs#Lucian Vaelric\|Lucian Vaelric]]:  Conflict (-1) → Powerful Being
 * [[Actual Play/000-NPCs#Freya Alaric\|Freya Alaric]]: Enduring Trust (+1) -> Mother
 
+**Character Arc:**
+* Alex is looking for a way to **free himself from his pact**
+
 ## Details
 
 **Alex Home:** [[Actual Play/000-Setting#9.8\|9.8]]  
 **Alex's Work:** [[Actual Play/000-Setting#3.9\|3.9]]  
-* Drakari??
+* Alex is born into the Flame Wardens. His mother is the leader.
 * Alex always wanted to be a singer. He went to the July 4th, 1985 celebration at 12 to busk for the first time. He was boo'd and hissed at and totally discouraged. When the chaos erupted Alex transformed in the case figuring no one would notice revealing the existence of Dragons to the world. Because of this event Alex sought out an Aelith to grant him a wish -- to have the most beautiful voice.
     * Owner: [[Actual Play/000-NPCs#Lucian Vaelric\|Lucian Vaelric]]
     * Beneficiary: Alex
     * Gift: the most beautiful voice -- Has a Gilded Voice
     * Debt/Terms: A lifetime of servitude -- one day a year
 
-## Character Arc
-
-?
-
-- [ ] ?
-
 ## Description
 
-
+Alex has jet black hair with silver streaks.  His eyes are an intense amber.  His scales are shimmering onyx that reflect silver in the light.  He has a strong athletic build, is 6'3" about 180 pounds.  Alex wears blue contact lenses to cover his amber eyes.
 
 ## Questions
 
