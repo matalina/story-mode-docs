@@ -288,3 +288,36 @@ All Characters should start with the following additional gear:
 * [[Actual Play/000-Items#Smart Phone\|Smart Phone]]
 * [[Actual Play/000-Items#Monster Hunter Kit\|Monster Hunter Kit]]
 
+## Factions
+
+Below are some ideas of what each member of the factions MAY be like. This is a generalization and does not have to be used if it doesn't fit your character.  Just because they are a part of a faction does not mean they embody all the typical characteristics.  However, these typical characteristics are how society will see you if your faction is known to them.  And they can still hinder your reputation with NPCs.
+
+### Ashen Legion
+The Ashen Legion are **ruthless conquerors**, wielding **fire and fury** to claim dominance over a world they believe must be **forged anew through destruction**.
+
+### Flame Wardens
+The Flame Wardens are **stoic guardians**, upholding **balance and vigilance**, ensuring the Drakari remain **protectors rather than conquerors**.
+
+### Gilded Chain
+The Gilded Chain are **unyielding enforcers of debt**, ensuring **every promise is kept** and every contract **sealed in blood is fulfilled**.
+
+### Gloomweavers
+The Gloomweavers are **dealmakers of the inevitable**, offering **power and wealth** while weaving a fate that will one day **unravel into ruin**.
+
+### Hellraisers
+The Hellraisers are **chaotic disruptors**, thriving on **mayhem and profit**, tearing through the underworld with **reckless abandon**.
+
+### Ironbound Hunters
+The Ironbound Hunters are **relentless bounty hunters**, driven by **contracts, reputation, and cold efficiency**, bringing down marks **no matter the cost**.
+
+### New Everlight Government
+The New Everlight Government are **political tacticians**, maintaining **order and control**, navigating the city's **hidden dangers and shifting alliances**.
+
+### Razorborn
+The Razorborn are **ruthless traffickers**, controlling **illicit trades of all kinds**, where **profit outweighs morality** and **power is the true currency**.
+
+### Shadowborn
+The Shadowborn are **silent sentinels of forbidden knowledge**, ensuring that **some secrets stay buried**, for the pursuit of truth **leads only to corruption**.
+
+### Whispered Hand
+The Whispered Hand are **patient debt collectors**, granting **favors freely** and waiting for the day when **the cost is due in full**.

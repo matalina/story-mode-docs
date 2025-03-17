@@ -9,8 +9,6 @@
 ### Benjamin Qualls
 Benjamin Qualls is a Level 6 Ferai blood-bound Ritualist who Binds Creatures to their will.
 
-**Disposition:** Measured (3.5)
-
 Leader of the [[Actual Play/000-Lore#The Ironbound Hunters\|The Ironbound Hunters]]
 
 ### Blaze
@@ -19,32 +17,24 @@ See [[Actual Play/000-NPCs#Kyle Bennett\|#Kyle Bennett]]
 ## F
 
 ### Freya Alaric
-?
-
-**Disposition:**
+Freya Alaric is a Level 10 stoic Drakari guardian who uphold her ancient duty.
 
 Leader of the [[Actual Play/000-Lore#The Flame Wardens\|The Flame Wardens]]
 
 ## K
 
 ### Kaelith Vale
-?
-
-**Disposition:**
+Kaelith Vale is a Level 10 fierce Drakari Warlord who burns a path towards dominion.
 
 Leader of the [[Actual Play/000-Lore#The Ashen Legion\|The Ashen legion]]
 
 ### Kyle Bennett
-? 
-
-**Disposition:**
+Kyle Bennet Level 10 is a cunning Ferai crime lord who thrives on chaos. 
 
 Leader of [[Actual Play/000-Lore#The Hellraisers\|The Hellraisers]]
 
 ### Khyreel
-?
-
-**Disposition:** 
+Khyreel is a Level 3 friendly Shadow who whispers in the dark. 
 
 Nox's Imaginary Friend
 
@@ -53,16 +43,12 @@ Nox's Imaginary Friend
 ### Lucian Vaelric
 Lucian Vaelric is a Level 10 ingenious Aelith who Makes Binding Pacts with Mortals.
 
-**Disposition:** Level-headed (4.2)
-
 Leader of the [[Actual Play/000-Lore#The Gilded Chain\|The Gilded Chain]]
 
 ## M
 
 ### Maya Cross
-?
-
-**Disposition:**
+Maya Cross is a Level 10 ruthless Ferai crime lord who orchestrates illicit trades.
 
 Leader of [[Actual Play/000-Lore#The Razorborn\|The Razorborn]]
 
@@ -83,8 +69,6 @@ See [[Actual Play/000-NPCs#Nyssara Myrris\|#Nyssara Myrris]]
 ### Tristan York
 Tristan York is the Level 5 optimistic Ferai mayor of New Everlight who Took a Gift from The Whispered Hand.
 
-**Disposition:** Level-headed (4.2)
-
 Leader of the [[Actual Play/000-Lore#New Everlight Government\|New Everlight Government]]
 
 ## V
@@ -92,14 +76,10 @@ Leader of the [[Actual Play/000-Lore#New Everlight Government\|New Everlight Gov
 ### Varian Thorne
 Varian Thorne is a Level 10 trickster Aelith who Grants Favors for an unspecified price.
 
-**Disposition:** Hostile (1.1)
-
 Leader of the [[Actual Play/000-Lore#The Whispered Hand\|The Whispered Hand]]
 
 ### Verek Sarthan
-?
-
-**Disposition:**
+Verek Sarthan is a Level 10 cunning Noctari manipulator who spins shadowed bargains.
 
 Leader of [[Actual Play/000-Lore#The Gloomweavers\|The Gloomweavers]] aka The Weaver of Nightmares
 

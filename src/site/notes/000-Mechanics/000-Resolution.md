@@ -29,6 +29,10 @@ A player then rolls a 1d20 against the DC. The DC is equal to 3 times the Level 
 > 
 > If George rolls a 12 he gets a "Success, and" George successfully picks the lock and George is inspired by such a great job on a difficult lock. (His next roll is eased)
 
+## Player vs Player
+
+When a contested roll against two players characters happens both a d20 and add +1 for any tag that eases the roll, add -1 for any tag that hinders the roll. The higher of the two totals wins the contest.
+
 ### Oracle Table
 
 The oracle table is a specialized Level 5 Check with a DC of 15.  Ask a Yes or No question and use the following results to inform your game.
@@ -40,11 +44,6 @@ The oracle table is a specialized Level 5 Check with a DC of 15.  Ask a Yes or N
 | 10-14 | Yes, but | Yes, but not exactly as expected |
 | 15-19 | Yes      | Yes                              |
 | 20    | Yes, and | Yes, and things are better       |
-
-## Player vs Player
-
-When a contested roll against two players characters happens both a d20 and add +1 for any tag that eases the roll, add -1 for any tag that hinders the roll. The higher of the two totals wins the contest.
-
 ### Inspiration
 
 | d8  | Table        |
