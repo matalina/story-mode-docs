@@ -40,15 +40,16 @@ A default base spell has the following properties.
 
 The chart below details how each option changes the level of the spell increasing the difficulty of it.  A spell's level cannot go above level 10 when creating it. Each spell crafted by the individual has their own unique level.  
 
-| DC             | -3     | -2      | -1      | Starting      | +1                      | +2                          | +3       | +4    |
-| -------------- | ------ | ------- | ------- | ------------- | ----------------------- | --------------------------- | -------- | ----- |
-| Level          |        |         |         | 5             |                         |                             |          |       |
-| Aspect         |        |         |         | 1             | 2                       | 3                           |          |       |
-| Range          |        | Touch   | 5ft     | 30ft          | 120ft                   | 1 mile                      | Anywhere |       |
-| Area of Effect |        |         |         | single target | 15ft in front of caster | 30ft diameter around target |          |       |
-| Targets        |        |         | self    | 1             | 2                       | 3                           | 4        | 5     |
-| Duration       |        |         | instant | 1 round       | 1 minute                | 10 minutes                  | 1 hour   | 1 day |
-| Cast Time      | 1 hour | 10 mins | 1 min   | 1 action      | quickened action        | instant                     |          |       |
+| DC             | -3     | -2      | -1                     | Starting      | +1                      | +2                          | +3       | +4    | +5  |
+| -------------- | ------ | ------- | ---------------------- | ------------- | ----------------------- | --------------------------- | -------- | ----- | --- |
+| Level          |        |         |                        | 5             |                         |                             |          |       |     |
+| Aspect         |        |         |                        | 1             | 2                       | 3                           |          |       |     |
+| Range          |        | Touch   | 5ft                    | 30ft          | 120ft                   | 1 mile                      | Anywhere |       |     |
+| Area of Effect |        |         |                        | single target | 15ft in front of caster | 30ft diameter around target |          |       |     |
+| Targets        |        |         | self                   | 1             | 2                       | 3                           | 4        | 5     |     |
+| Duration       |        | instant | activate /deactivate * | 1 round       | 1 minute                | 10 minutes                  | 1 hour   | 1 day |     |
+| Cast Time      | 1 hour | 10 mins | 1 min                  | 1 action      | quickened action        | instant                     |          |       |     |
+\* activate/deactivate durations require a phrase to activate and deactivate
 
 ## Spells
 

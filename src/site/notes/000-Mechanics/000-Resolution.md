@@ -33,18 +33,7 @@ A player then rolls a 1d20 against the DC. The DC is equal to 3 times the Level 
 
 When a contested roll against two players characters happens both a d20 and add +1 for any tag that eases the roll, add -1 for any tag that hinders the roll. The higher of the two totals wins the contest.
 
-## Oracle Table
-
-The oracle table is a specialized Level 5 Check with a DC of 15.  Ask a Yes or No question and use the following results to inform your game.
-
-| d20   | Result   | Details                          |
-| ----- | -------- | -------------------------------- |
-| 1     | No, and  | No, and things are worse         |
-| 2-9   | No, but  | No, but there is a positive      |
-| 10-14 | Yes, but | Yes, but not exactly as expected |
-| 15-19 | Yes      | Yes                              |
-| 20    | Yes, and | Yes, and things are better       |
-### Inspiration
+## Inspiration
 
 | d8  | Table        |
 | --- | ------------ |
@@ -171,3 +160,80 @@ Remember that the target number to hit is 3 times the level, so the target numbe
 | 8     | 24  | Heroic       |
 | 9     | 27  | Immortal     |
 | 10    | 30  | Impossible   |
+## Special Resolution Tables
+
+### Oracle Table
+
+The oracle table is a specialized Level 5 Check with a DC of 15.  Ask a Yes or No question and use the following results to inform your game.
+
+| d20   | Result   | Details                          |
+| ----- | -------- | -------------------------------- |
+| 1     | No, and  | No, and things are worse         |
+| 2-9   | No, but  | No, but there is a positive      |
+| 10-14 | Yes, but | Yes, but not exactly as expected |
+| 15-19 | Yes      | Yes                              |
+| 20    | Yes, and | Yes, and things are better       |
+### Spellcasting Table
+
+| d20          | Result       | Details                                                                         |
+| ------------ | ------------ | ------------------------------------------------------------------------------- |
+| 1            | Fail, and    | Fail, and Roll on the [[000-Mechanics/004-Spellcasting#Mishaps\|Mishap]] table                |
+| 2 to DC-6    | Fail, but    | The spell fails, but nothing backfires or goes wrong                            |
+| DC-5 to DC-1 | Success, but | Success, but it backfires and hinders all rolls until the end of your next turn |
+| DC to DC+4   | Success      | The spell goes off exactly as you expected                                      |
+| DC+5 +       | Success, and | Successfully cast the spell and earn the tag of Mastery for that spell.         |
+
+### Momentum (Combat) Table
+
+| d20          | Result       | Player Attack | Player Defense                 |
+| ------------ | ------------ | ------------- | ------------------------------ |
+| 1            | Fail, and    | 0             | -2 momentum/+2 enemy succeses  |
+| 2 to DC-6    | Fail, but    | 0             | -1 momentum/+1 enemy successes |
+| DC-5 to DC-1 | Success, but | 0             | -1 momentum/+0 enemy successes |
+| DC to DC+4   | Success      | +1 momentum   | 0                              |
+| DC+5 +       | Success, and | +2 momentum   | 0                              |
+
+### NPC Interactions Table
+
+| d20          | Result       | Details                                                    |
+| ------------ | ------------ | ---------------------------------------------------------- |
+| 1            | Fail, and    | Fail, decrease the NPCs default disposition by one step    |
+| 2 to DC-6    | Fail, but    | Fail, but their attitude changes towards you in your favor |
+| DC-5 to DC-1 | Success, but | Success, but their attitude changes against your favor     |
+| DC to DC+4   | Success      | Success                                                    |
+| DC+5 +       | Success, and | Success, increase the NPCs default disposition by one step |
+### Debt Collectors Table
+
+| d20          | Result       | Details                                                                                                                                                    |
+| ------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1            | Fail, and    | Collectors come knocking and they come looking for blood (Combat encounter)                                                                                |
+| 2 to DC-6    | Fail, but    | Collectors come knocking but are understanding                                                                                                             |
+| DC-5 to DC-1 | Success, but | Collectors offer an alternative payment method  -- do this for me, and I'll let you off (Negotiations)                                                     |
+| DC to DC+4   | Success      | --                                                                                                                                                         |
+| DC+5 +       | Success, and | Collectors are feeling generous.  Instead of hindered by two wealth check, hinder your check at the end of the session by 1 to see if you clear your debt. |
+
+### Optional Tables
+
+#### Crafting Table
+
+This table is provided if you want to include crafting as part of your game.
+
+| d20          | Result       | Details                                                                       |
+| ------------ | ------------ | ----------------------------------------------------------------------------- |
+| 1            | Fail, and    | You failed to craft the item and you a 1d4 random materials                   |
+| 2 to DC-6    | Fail, but    | You failed to craft the item but you didn't lose any materials in the process |
+| DC-5 to DC-1 | Success, but | Successfully crafted the item but it doesn't do exactly what you wanted       |
+| DC to DC+4   | Success      | Successfully crafted the item as                                              |
+| DC+5 +       | Success, and | Successfully crafted the item better than expected                            |
+
+#### Navigatio Table
+
+This table is provided if you want to have navigation exploration situations in your game.
+
+| d20          | Result       | Details                                                                             |
+| ------------ | ------------ | ----------------------------------------------------------------------------------- |
+| 1            | Fail, and    | You failed to navigate, and you are completely lost                                 |
+| 2 to DC-6    | Fail, but    | You failed to navigate, but you've found a clue to point you in the right direction |
+| DC-5 to DC-1 | Success, but | You successfully navigate, but you aren't sure you are going in the right direction |
+| DC to DC+4   | Success      | You successfully navigate                                                           |
+| DC+5 +       | Success, and | You successfully navigate and find proof you are heading in the right direction     |

@@ -75,7 +75,7 @@ _The characters are the heart of the story._
 
 1. Come up with a compelling Character Concepts.
 2. Create a character sentence for each character.
-3. (optional) Flesh out the character with a [[000-Mechanics/001-Character Creation\|001-Character Creation]] method.
+3. (optional) Flesh out the character with a [[000-Mechanics/101-Character Creation\|101-Character Creation]] method.
 
 
 ### Character Sentence

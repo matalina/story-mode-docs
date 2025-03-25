@@ -31,3 +31,13 @@
 At Character creation, any player NPCs and factions will start with a relationship already established.  
 * For factions start at _Indifferent_ then you may move the starting relationship one step in any direction.
 * For NPCs start at _Indifferent_ then you may move the starting relationship up to two steps in any direction.
+
+Use the following results for the NPC Interactions
+
+| d20          | Result       | Details                                                    |
+| ------------ | ------------ | ---------------------------------------------------------- |
+| 1            | Fail, and    | Fail, decrease the NPCs default disposition by one step    |
+| 2 to DC-6    | Fail, but    | Fail, but their attitude changes towards you in your favor |
+| DC-5 to DC-1 | Success, but | Success, but their attitude changes against your favor     |
+| DC to DC+4   | Success      | Success                                                    |
+| DC+5 +       | Success, and | Success, increase the NPCs default disposition by one step |
