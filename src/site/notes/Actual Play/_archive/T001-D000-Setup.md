@@ -10,8 +10,8 @@
 **Moon Phase:** Full Moon  
 **Weather:** Unseasonably Hot
 
-**Alex's Objective:** Find [[Actual Play/New Everlight/NPCs#Lucian Vaelric\|Lucian Vaelric]]'s son before his [[Actual Play/New Everlight/NPCs#Nyssara Myrris\|mother]] does.  
-**Nox's Objective:** Find what is going on with [[Actual Play/New Everlight/NPCs#June Everett\|June Everett]] at Ashcroft University.
+**Alex's Objective:** Find [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]'s son before his [[Actual Play/Fractured Veil/NPCs#Nyssara Myrris\|mother]] does.  
+**Nox's Objective:** Find what is going on with [[Actual Play/Fractured Veil/NPCs#June Everett\|June Everett]] at Ashcroft University.
 
 ***
 **Roll:** Alex Initiative  
@@ -21,7 +21,7 @@
 1d20: [18] = 18
 
 ***
-Nox's Objective: Find what is going on with [[Actual Play/New Everlight/NPCs#June Everett\|June Everett]] at Ashcroft University.
+Nox's Objective: Find what is going on with [[Actual Play/Fractured Veil/NPCs#June Everett\|June Everett]] at Ashcroft University.
 
 > [!note]- Inspiration
 > **Roll:** Source of Mission  
@@ -44,7 +44,7 @@ Nox's Objective: Find what is going on with [[Actual Play/New Everlight/NPCs#Jun
 >   
 > University District
 
-**Who:** Librarian → [[Actual Play/New Everlight/NPCs#June Everett\|June Everett]] @ Ashcroft University [[Actual Play/New Everlight/Setting#2.5\|2.5]]
+**Who:** Librarian → [[Actual Play/Fractured Veil/NPCs#June Everett\|June Everett]] @ Ashcroft University [[Actual Play/Fractured Veil/Setting#2.5\|2.5]]
 **How it Started:** Found an old book in the archives (Released Something)
 **What's Happening:** Whispers in the Dark, Missing Time, Cursed Object
 **Motivation:** Obsession with A forbidden name and the ritual that will release it

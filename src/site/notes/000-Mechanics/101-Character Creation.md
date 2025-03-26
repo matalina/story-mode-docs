@@ -26,9 +26,9 @@ All tags in your character sentence are [[000-Mechanics/999-Glossary#^6ca8a3\|Um
 
 ## Background
 
-Chose one tag that represents your background.  This can be a specific part of your type, or it can be something else on another spectrum, but it should be something meaningful that plays a big part of who you are.
+Chose one tag that represents your background. This can be a specific part of your type, or it can be something else on another spectrum, but it should be something meaningful that plays a big part of who you are.
 
-Choose up to 5 additional tags that describe your characters abilities and additional background. 
+Choose up to 5 additional tags that describe your character's abilities and additional background. 
 
 > [!note]
 > You may leave some blank and add them on the fly in game play up to a total of 5 tags. Additional tags can be earned from quests or other in game actions.
@@ -40,7 +40,12 @@ All characters have flaws. A flaw can also have benefits but it should also hind
 Choose 1 flaw. 
 
 > [!note]
+> It may be beneficial to the player to link the flaw to one of the seven deadly sins -- pride, envy, wrath, sloth, greed, gluttony and lust. As an example Perfectionism could be linked to pride, Hedonism to gluttony, anger management issues to anger, fear of missing out to envy, kleptomania to greed.
+> 
 > A flaw does not have to only apply negative effects.  Perfectionism can be a flaw if it can harm the outcome of a task trying to make it perfect and never knowing when to stop and call it done. However perfectionism can also ease a task when attention to detail is needed and you have no other stressors applied.
+
+> [!tip] Optional
+> You may choose 1 additional flaw and add 1 additional positive tag to add to your character sheet.
 
 ## Character Arcs
 

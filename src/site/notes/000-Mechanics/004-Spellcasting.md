@@ -34,7 +34,6 @@ A default base spell has the following properties.
 **Cast Time:** 1 action
 
 > [!note]
-> A spell may have either a damage or effect. Adding the other costs +1  to the level plus any other modifiers.
 > 
 > A spell may have either a number of targets or any area of effect and cannot have both.
 
@@ -77,7 +76,7 @@ When casting a spell you will also need to detail how you are casting it. Are yo
 
 **Mind** -- telepathy and other psionics
 **Time**
-**Space** -- teleportation
+**Space** -- teleportation, shapeshifting
 
 **Sound**
 **Illusion** -- (can't do damage)

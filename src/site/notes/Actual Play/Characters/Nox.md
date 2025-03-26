@@ -12,14 +12,15 @@ Nox is a \[**cursed**] \[**half-blood**] \[**Hex-blade**] who \[**Protects the W
 * Whispers in the Dark
 * Makes Binding Oaths
 * Savior Complex
-* Does Not Lie
 * One with Our Mother of Blossoming Chaos
-* Perfectionist
+* Does Not Lie
+* Obsessive (pride)
+* Perfectionist (pride)
 
 _Weapon:_ 
-* [[Actual Play/New Everlight/Items#Pact Weapon\|Pact Weapon]]
-* [[Actual Play/New Everlight/Items#Obsidian Dagger\|Obsidian Dagger]]
-_Armor:_ [[Actual Play/New Everlight/Items#Wraith-silk Armor\|Wraith-silk Armor]]
+* [[Actual Play/Fractured Veil/Items#Pact Weapon\|Pact Weapon]]
+* [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
+_Armor:_ [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
 
 _Wealth:_ 3
 
@@ -32,11 +33,11 @@ _Wealth:_ 3
 |       |          |
 
 Equipment: _Max Capacity → 10_
-* [[Actual Play/New Everlight/Items#Obsidian Dagger\|Obsidian Dagger]]
-* [[Actual Play/New Everlight/Items#Wraith-silk Armor\|Wraith-silk Armor]]
-* [[Actual Play/New Everlight/Items#Smart Phone\|Smartphone]]
-* [[Actual Play/New Everlight/NPCs#Khyreel\|Khyreel]]'s Vial of Shadow
-* [[Actual Play/New Everlight/Creatures#^df55ba\|fey-dragon]] Naerynn
+* [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
+* [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
+* [[Actual Play/Fractured Veil/Items#Smart Phone\|Smartphone]]
+* [[Actual Play/Fractured Veil/NPCs#Khyreel\|Khyreel]]'s Vial of Shadow
+* [[Actual Play/Fractured Veil/Creatures#^df55ba\|Bloom Dragon]] named Naerynn
 * (empty)
 * (empty)
 * (empty)
@@ -44,17 +45,17 @@ Equipment: _Max Capacity → 10_
 * (empty)
 
 _Relationships/Factions:_
-* [[Actual Play/New Everlight/Lore#The Gilded Chain\|The Gilded Chain]]: Reliable (+0) → Born into and raised in their image
-* [[Actual Play/New Everlight/NPCs#Lucian Vaelric\|Lucian Vaelric]]: Enduring Trust (+1) → Nox's father
-* [[Actual Play/New Everlight/NPCs#Khyreel\|Khyreel]]: Enduring Trust (+1) → Imaginary Friend
-* [[Actual Play/New Everlight/NPCs#Vaelistra\|Hag]]: Indifferent (+0) → Owes a Favor to 
-* Our [[Actual Play/New Everlight/NPCs#Mother of the Blooming Chaos\|Mother of Blooming Chaos]]: Enduring Trust (+1) → Goddess of the Wyld
+* [[Actual Play/Fractured Veil/Lore#The Gilded Chain\|The Gilded Chain]]: Reliable (+0) → Born into and raised in their image
+* [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]: Enduring Trust (+1) → Nox's father
+* [[Actual Play/Fractured Veil/NPCs#Khyreel\|Khyreel]]: Enduring Trust (+1) → Imaginary Friend
+* [[Actual Play/Fractured Veil/NPCs#Vaelistra\|Hag]]: Indifferent (+0) → Owes a Favor to 
+* Our [[Actual Play/Fractured Veil/NPCs#Mother of the Blooming Chaos\|Mother of Blooming Chaos]]: Enduring Trust (+1) → Goddess of the Wyld
 
 _Character Arc:_
 * Nox is looking to **find where he belongs**.
 
 _Quests:_
-- [ ] Find the lost Tarsha'ombor in the Iron Veil
+- [ ] Find the lost [[Actual Play/Fractured Veil/Creatures#^1651a2\|Glimmerpaw]] in the Iron Veil
 - [ ] Discover and Destroy what is harming the Faerie Mound in the Iron Veil
 
 ## Half-blood
@@ -83,7 +84,7 @@ Curse of Walking Between the Realms -- Being a half blood makes him an outcast i
 **Level:** 0 (0)
 **Aspect:** Shadow
 **Type:** Summon
-**Effect:** Summons a [[Actual Play/New Everlight/Items#Pact Weapon\|Pact Weapon]]
+**Effect:** Summons a [[Actual Play/Fractured Veil/Items#Pact Weapon\|Pact Weapon]]
 **Range:** Touch (-2)
 **Area of Effect:** single
 **Targets:**  self (-1)

@@ -4,15 +4,15 @@
 
 # Details
 
-*Alex Home:* [[Actual Play/New Everlight/Setting#9.8\|9.8]]  
-*Alex's Work:* [[Actual Play/New Everlight/Setting#3.9\|3.9]]  
+*Alex Home:* [[Actual Play/Fractured Veil/Setting#9.8\|9.8]]  
+*Alex's Work:* [[Actual Play/Fractured Veil/Setting#3.9\|3.9]]  
 
 ## Summary
 
 * Alex is 53 (Young Adult Drakari)
-* Alex is born into the Flame Wardens. His [[Actual Play/New Everlight/NPCs#Freya Alaric\|mother]] is the leader.
+* Alex is born into the Flame Wardens. His [[Actual Play/Fractured Veil/NPCs#Freya Alaric\|mother]] is the leader.
 * Alex always wanted to be a singer. He went to the July 4th, 1985 celebration at 12 to busk for the first time. He was booed and hissed at and totally discouraged. When the chaos erupted Alex transformed in the case figuring no one would notice revealing the existence of Dragons to the world. Because of this event Alex sought out an Aelith to grant him a wish -- to have the most beautiful voice.
-    * Owner: [[Actual Play/New Everlight/NPCs#Lucian Vaelric\|Lucian Vaelric]]
+    * Owner: [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]
     * Beneficiary: Alex
     * Gift: the most beautiful voice -- Has a Gilded Voice
     * Debt/Terms: A lifetime of servitude -- one day a year

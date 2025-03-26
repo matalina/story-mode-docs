@@ -105,26 +105,26 @@ When entering a location:
 | 10  | Staged Crime Scene     |
 
 
-| Creature      | Urban                                                                                                                    | Terrain                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
-| Banshee       | High Class Residential, Middle Class Residential, Government District, University, Entertainment District, Park District | Forest, Swamp, Desert           |
-| Chimera       | Slums, Industrial District, Warehouse District, Park District, Subways System, Commercial District                       | Mountains, Swamp, Desert        |
-| Chupacabra    | Slums, Industrial District, Warehouse District, Park District, Subways System, Medical Park                              | Plains, Forest, Desert          |
-| Demon         | Slums, Commercial District, Entertainment District, University, Subways System, Financial District                       | Mountains, Desert, Swamp        |
-| Djinn         | High Class Residential, University, Financial District, Commercial District, Entertainment District, Government District | Desert, Mountains               |
-| Faerie/Fey    | High Class Residential, Park District, University, Entertainment District, Commercial District, Downtown                 | Forest, Hills, Swamp            |
-| Ghost/Spirit  | High Class Residential, University, Government District, Medical Park, Old Theaters, Downtown                            | Forest, Swamp, Desert           |
-| Ghoul         | Slums, Subways System, Warehouse District, Industrial District, Park District, Medical Park                              | Forest, Swamp, Desert           |
-| Kitsune       | High Class Residential, University, Park District, Downtown, Entertainment District, Middle Class Residential            | Forest, Hills, Plains           |
-| Lich          | University, Government District, High Class Residential, Warehouse District, Park District, Medical Park                 | Forest, Mountains, Swamp        |
-| Nightmare     | High Class Residential, Middle Class Residential, University, Medical Park, Entertainment District, Downtown             | Plains, Mountains, Desert       |
-| Revenant      | Slums, Warehouse District, Subways System, Industrial District, Commercial District, Medical Park                        | Forest, Swamp, Desert           |
-| Shadow        | Subways System, Warehouse District, Industrial District, Slums, Financial District, Downtown                             | Forest, Swamp, Hills            |
-| Shapeshifter  | High Class Residential, Middle Class Residential, Entertainment District, Commercial District, University, Downtown      | Forest, Plains, Hills, Swamp    |
-| Skinwalker    | Slums, Warehouse District, Industrial District, Park District, Downtown, Middle Class Residential                        | Forest, Hills, Mountains, Swamp |
-| Vampire       | High Class Residential, Entertainment District, Downtown, Slums, Commercial District, Park District                      | Forest, Swamp, Mountains        |
-| Wendigo       | Slums, Warehouse District, Industrial District, Park District, Downtown, Medical Park                                    | Forest, Mountains, Swamp        |
-| Werewolf      | Slums, Warehouse District, Industrial District, Park District, Subways System, Middle Class Residential                  | Forest, Hills, Swamp            |
-| Witch/Warlock | Slums, Warehouse District, University, Government District, Park District, Medical Park                                  | Forest, Swamp, Hills, Desert    |
-| Zombie        | Slums, Warehouse District, Industrial District, Subways System, Commercial District, Medical Park                        | Forest, Swamp, Plains, Desert   |
+| d20 | Creature      | Urban                                                                                                                    | Terrain                         |
+| --- | ------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| 1   | Banshee       | High Class Residential, Middle Class Residential, Government District, University, Entertainment District, Park District | Forest, Swamp, Desert           |
+| 2   | Chimera       | Slums, Industrial District, Warehouse District, Park District, Subways System, Commercial District                       | Mountains, Swamp, Desert        |
+| 3   | Chupacabra    | Slums, Industrial District, Warehouse District, Park District, Subways System, Medical Park                              | Plains, Forest, Desert          |
+| 4   | Demon         | Slums, Commercial District, Entertainment District, University, Subways System, Financial District                       | Mountains, Desert, Swamp        |
+| 5   | Djinn         | High Class Residential, University, Financial District, Commercial District, Entertainment District, Government District | Desert, Mountains               |
+| 6   | Faerie/Fey    | High Class Residential, Park District, University, Entertainment District, Commercial District, Downtown                 | Forest, Hills, Swamp            |
+| 7   | Ghost/Spirit  | High Class Residential, University, Government District, Medical Park, Old Theaters, Downtown                            | Forest, Swamp, Desert           |
+| 8   | Ghoul         | Slums, Subways System, Warehouse District, Industrial District, Park District, Medical Park                              | Forest, Swamp, Desert           |
+| 9   | Kitsune       | High Class Residential, University, Park District, Downtown, Entertainment District, Middle Class Residential            | Forest, Hills, Plains           |
+| 10  | Lich          | University, Government District, High Class Residential, Warehouse District, Park District, Medical Park                 | Forest, Mountains, Swamp        |
+| 11  | Nightmare     | High Class Residential, Middle Class Residential, University, Medical Park, Entertainment District, Downtown             | Plains, Mountains, Desert       |
+| 12  | Revenant      | Slums, Warehouse District, Subways System, Industrial District, Commercial District, Medical Park                        | Forest, Swamp, Desert           |
+| 13  | Shadow        | Subways System, Warehouse District, Industrial District, Slums, Financial District, Downtown                             | Forest, Swamp, Hills            |
+| 14  | Shapeshifter  | High Class Residential, Middle Class Residential, Entertainment District, Commercial District, University, Downtown      | Forest, Plains, Hills, Swamp    |
+| 15  | Skinwalker    | Slums, Warehouse District, Industrial District, Park District, Downtown, Middle Class Residential                        | Forest, Hills, Mountains, Swamp |
+| 16  | Vampire       | High Class Residential, Entertainment District, Downtown, Slums, Commercial District, Park District                      | Forest, Swamp, Mountains        |
+| 17  | Wendigo       | Slums, Warehouse District, Industrial District, Park District, Downtown, Medical Park                                    | Forest, Mountains, Swamp        |
+| 18  | Werewolf      | Slums, Warehouse District, Industrial District, Park District, Subways System, Middle Class Residential                  | Forest, Hills, Swamp            |
+| 19  | Witch/Warlock | Slums, Warehouse District, University, Government District, Park District, Medical Park                                  | Forest, Swamp, Hills, Desert    |
+| 20  | Zombie        | Slums, Warehouse District, Industrial District, Subways System, Commercial District, Medical Park                        | Forest, Swamp, Plains, Desert   |
 

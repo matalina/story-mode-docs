@@ -10,7 +10,7 @@
 **Moon Phase:** Waning Crescent
 **Weather:** Unseasonably Hot
 
-**Alex's Objective:** Find [[Actual Play/New Everlight/NPCs#Nyssara Myrris\|Nyssara Myrris]]' son   
+**Alex's Objective:** Find [[Actual Play/Fractured Veil/NPCs#Nyssara Myrris\|Nyssara Myrris]]' son   
 **Nox's Objective:** Destroy the creature harming the Faerie Mound.
 
 **Date:** June 21, 2005

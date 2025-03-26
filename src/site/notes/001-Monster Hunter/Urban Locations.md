@@ -24,6 +24,20 @@
 | 95-97  | Technology District      | --  |
 | 98-100 | Medical Park             | --  |
 
+| d20   | Districts                |
+| ----- | ------------------------ |
+| 1-2   | High Class Residential   |
+| 3-5   | Middle Class Residential |
+| 6-7   | Slums                    |
+| 8     | Commercial District      |
+| 9     | Warehouse District       |
+| 10    | Industrial District      |
+| 11    | Entertainment District   |
+| 12    | Financial District       |
+| 13    | Technology District      |
+| 14    | Medical Park             |
+| 15-20 | Same as previous         |
+
 | d20 | Creature      |
 | --- | ------------- |
 | 1   | Banshee       |
