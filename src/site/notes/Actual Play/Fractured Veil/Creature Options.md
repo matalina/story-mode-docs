@@ -5,7 +5,7 @@
 # Creature Options
 
 > [!tip] Creature Sentence
-> \[Name] is a (Level \[level]) \[disposition] \[descriptor] \[type] who \[motivation] from \[realm].
+> \[Name] is a (Level \[level]) \[disposition] \[descriptor] \[type] who \[motivation] from \[realm] and does \[basic attack] damage.
 
 | d4  | Realm         |
 | --- | ------------- |
@@ -15,18 +15,18 @@
 | 4   | roll again    |
 **Type:**
 
-| d10 | The Iron Veil | The Wyld   | The Nether |
-| --- | ------------- | ---------- | ---------- |
-| 1   | Ferai         | Aelith     | Noctari    |
-| 2   | Drakari       | Animal     | Animal     |
-| 3   | Animal        | Insect     | Insect     |
-| 4   | Automation    | Ooze/Slime | Ooze/Slime |
-| 5   | Mechanical    | Plant      | Undead     |
-| 6   | Ghost         | Chimera    | Ghost      |
-| 7   | Undead        | Golem      | Chimera    |
-| 8   | Draconic      | Ghost      | Golem      |
-| 9   | Ooze/Slime    | Elemental  | Shadow     |
-| 10  | Insect        | Fey        | Fiend      |
+| d10 | The Iron Veil | The Wyld     | The Nether    |
+| --- | ------------- | ------------ | ------------- |
+| 1   | Ferai (NPC)   | Aelith (NPC) | Noctari (NPC) |
+| 2   | Drakari (NPC) | Animal       | Animal        |
+| 3   | Animal        | Insect       | Insect        |
+| 4   | Automation    | Ooze/Slime   | Ooze/Slime    |
+| 5   | Mechanical    | Plant        | Undead        |
+| 6   | Ghost         | Chimera      | Ghost         |
+| 7   | Undead        | Golem        | Chimera       |
+| 8   | Draconic      | Ghost        | Golem         |
+| 9   | Ooze/Slime    | Elemental    | Shadow        |
+| 10  | Insect        | Fey          | Fiend         |
 
 | d20 | Motivation           | Descriptor | Disposition |
 | --- | -------------------- | ---------- | ----------- |
@@ -53,51 +53,122 @@
 
 ## Names
 
-| d20 | Name Pattern                 |
-| --- | ---------------------------- |
-| 1   | \[four]\[one]'\[two]\[three] |
-| 2   | \[four]\[two]                |
-| 3   | \[four]\[two]\[one]          |
-| 4   | \[one]'\[three]\[two]\[four] |
-| 5   | \[one]'\[two]\[four]         |
-| 6   | \[one]\[three]               |
-| 7   | \[one]\[three]'\[four]       |
-| 8   | \[one]\[two]                 |
-| 9   | \[one]\[two]'\[three]        |
-| 10  | \[one]\[two]'\[four]\[three] |
-| 11  | \[one]\[two]\[three]         |
-| 12  | \[one]\[two]\[three]\[four]  |
-| 13  | \[three]\[one]               |
-| 14  | \[three]\[one]\[four]        |
-| 15  | \[three]\[one]\[four]\[two]  |
-| 16  | \[two]'\[one]                |
-| 17  | \[two]\[four]                |
-| 18  | \[two]\[three]'\[one]\[four] |
-| 19  | \[two]\[three]\[four]        |
-| 20  | \[two]\[three]\[one]         |
+| d20 | Iron Veil     | The Wyld     | The Nether |
+| --- | ------------- | ------------ | ---------- |
+| 1   | Dire          | Feral        | Cursed     |
+| 2   | Hollow        | Twisted      | Twisted    |
+| 3   | Gloomtouched  | Wild         | Shadowed   |
+| 4   | Runed         | Shifting     | Haunting   |
+| 5   | Ironbound     | Enchanted    | Corrupted  |
+| 6   | Phantom       | Primal       | Phantom    |
+| 7   | Veil-piercing | Arcane       | Ebon       |
+| 8   | Broken        | Unfathonable | Revenant   |
+| 9   | Forsaken      | Chaotic      | Infernal   |
+| 10  | Rusted        | Verdant      | Dreadful   |
+| 11  | Clockwork     | Dreambound   | Spectral   |
+| 12  | Withered      | Dreaded      | Siniister  |
+| 13  | Blooded       | Elemental    | Blighted   |
+| 14  | Shadowed      | Eldritch     | Accursed   |
+| 15  | Luminous      | Savage       | Wretched   |
+| 16  | Thorned       | Tainted      | Abyssal    |
+| 17  | Invisible     | Luminous     | Vengeful   |
+| 18  | Blooming      | Illusory     | Doomed     |
+| 19  | Giant         | Otherworldly | Foul       |
+| 20  | Barbed        | Ancient      | Forsaken   |
+For a Chimera roll twice on Animal and/or Insect
 
-| d20 | Four | Three | Two  | One |
-| --- | ---- | ----- | ---- | --- |
-| 1   | ek   | thal  | Zor  | Va  |
-| 2   | is   | mor   | Sha  | Kry |
-| 3   | ul   | vok   | Rin  | Xe  |
-| 4   | an   | dus   | Vor  | Tha |
-| 5   | oth  | nak   | Gre  | Lo  |
-| 6   | ir   | zan   | Dru  | Mir |
-| 7   | ith  | bor   | Xal  | Kel |
-| 8   | en   | thys  | Sy   | Bra |
-| 9   | ox   | lar   | Quin | Yv  |
-| 10  | um   | zix   | Nel  | Tar |
-| 11  | ur   | dak   | Ther | Vol |
-| 12  | ish  | tor   | Lys  | Zan |
-| 13  | el   | vren  | Phy  | Dar |
-| 14  | om   | kri   | Hex  | Sul |
-| 15  | uth  | myn   | Oza  | Zek |
-| 16  | id   | skar  | Jor  | Tyx |
-| 17  | as   | gri   | Vey  | Ul  |
-| 18  | on   | neth  | Brax | Xir |
-| 19  | ar   | zol   | Syn  | Quo |
-| 20  | un   | thok  | Myr  | Esh |
+| d20 | Animal  | Automation | Mechanical   | Ghost       |
+| --- | ------- | ---------- | ------------ | ----------- |
+| 1   | Wolf    | Golem      | Strider      | Wraith      |
+| 2   | Bear    | Homunculus | Gearhound    | Shade       |
+| 3   | Stag    | Automaton  | Ironback     | Banshee     |
+| 4   | Boar    | Sentinel   | Clanker      | Specter     |
+| 5   | Hound   | Watcher    | Steamjaw     | Poltergeist |
+| 6   | Lion    | Guardian   | Ironclad     | Revenant    |
+| 7   | Serpent | Warden     | Steelcrawler | Phantom     |
+| 8   | Jackal  | Forgeling  | Breaker      | Haunt       |
+| 9   | Ram     | Drone      | Ironforged   | Apparition  |
+| 10  | Frog    | Engine     | Gearforged   | Eidolon     |
+| 11  | Warg    | Walker     | Sentinel     | Ghostlight  |
+| 12  | Lizard  | Construct  | Watcher      | Spirit      |
+| 13  | Fox     | Shell      | Guardian     | Ghost       |
+| 14  | Eagle   | Animation  | Warden       | Deathshade  |
+| 15  | Ape     | Husk       | Walker       | Nightwalker |
+| 16  | Weasel  | Manikin    | Retainer     | Whisperer   |
+| 17  | Rat     | Regulator  | Vessel       | Soulstalker |
+| 18  | Cat     | Retainer   | Proxy        | Veilwalker  |
+| 19  | Raven   | Vessel     | Construct    | Shadehunter |
+| 20  | Crow    | Proxy      | Drone        | Lamentor    |
+
+| d20 | Undead        | Draconic | Ooze/Slime      | Insect    |
+| --- | ------------- | -------- | --------------- | --------- |
+| 1   | Zombie        | Wrym     | Ooze            | Swarm     |
+| 2   | Ghoul         | Drake    | Slime           | Manticore |
+| 3   | Lich          | Wyvren   | Gelatinous Cube | Widow     |
+| 4   | Skeleton      | Kobold   | Blob            | Hornet    |
+| 5   | Revenant      | Dragon   | Gloop           | Beetle    |
+| 6   | Banshee       | Hydra    | Pudding         | Locust    |
+| 7   | Wight         | Basilisk | Jelly           | Spider    |
+| 8   | Vampire       | Drakari  | Ooze            | Scorpion  |
+| 9   | Wraith        | Wrym     | Slime           | Grub      |
+| 10  | Mummy         | Drake    | Gelatinous Cube | Ant       |
+| 11  | Shade         | Wyvren   | Blob            | Silkbeast |
+| 12  | Shambler      | Kobold   | Gloop           | Firefly   |
+| 13  | Death Knight  | Dragon   | Pudding         | Stinger   |
+| 14  | Ghast         | Hydra    | Jelly           | Venomwing |
+| 15  | Shadow        | Basilisk | Ooze            | Dragonfly |
+| 16  | Flameskull    | Wrym     | Slime           | Tarantula |
+| 17  | Dracolich     | Drake    | Gelatinous Cube | Centipede |
+| 18  | Demilich      | Wyvren   | Blob            | Wasp      |
+| 19  | Death Tyrant  | Hydra    | Pudding         | Cockroach |
+| 20  | Crawling Claw | Kobold   | Jelly           | Tick      |
+
+| d20 | Plant     | Golem      | Elemental       | Fey        |
+| --- | --------- | ---------- | --------------- | ---------- |
+| 1   | Treant    | Flesh      | Fire Elemental  | Fey-dragon |
+| 2   | Ent       | Earth      | Water Elemental | Changeling |
+| 3   | Bloom     | Stone      | Air Elemental   | Fey-cat    |
+| 4   | Shambler  | Clockwork  | Earth Elemental | Fey-dog    |
+| 5   | Spriggan  | Mechanical | Phoenix         | Pixie      |
+| 6   | Willowisp | Iron       | Ice Mephit      | Sprite     |
+| 7   | Seedling  | Clay       | Mud Mephit      | Dryad      |
+| 8   | Sap       | Crystal    | Air Mephit      | Nymph      |
+| 9   | Flower    | Fire       | Dust Mephit     | Satyr      |
+| 10  | Mushroom  | Ice        | Magma Mephit    | Puca       |
+| 11  | Vine      | Wood       | Steam Mephit    | Kelpie     |
+| 12  | Thrasher  | Sand       | Gargoyle        | Hobgoblin  |
+| 13  | Crawler   | Mud        | Fire Myrmidon   | Brownie    |
+| 14  | Shrub     | Lava       | Water Myrmidon  | Selkie     |
+| 15  | Tree      | Bone       | Air Myrmidon    | Faun       |
+| 16  | Sapling   | Void       | Earth Myrmidon  | Hag        |
+| 17  | Fern      | Shadow     | Fire Titan      | Boggle     |
+| 18  | Thornbush | Mist       | Water Titan     | Unicorn    |
+| 19  | Maneater  | Arcane     | Air Titan       | Redcap     |
+| 20  | Briar     | Plague     | Earth Titan     | Darkling   |
+
+| d20 | Shadow       | Fiend             |
+| --- | ------------ | ----------------- |
+| 1   | Shadow       | Fiend             |
+| 2   | Shade        | Devil             |
+| 3   | Wraith       | Imp               |
+| 4   | Nightstalker | Quasit            |
+| 5   | Shadowmancer | Demon             |
+| 6   | Darkling     | Hellhound         |
+| 7   | Dreadshade   | Balor             |
+| 8   | Deathshade   | Brute             |
+| 9   | Gloombeast   | Succubus/Inccubus |
+| 10  | Blackmist    | Demon Lord        |
+| 11  | Phantom      | Archdevil         |
+| 12  | Shadewalker  | Pit Fiend         |
+| 13  | Umbra        | Infernal Knight   |
+| 14  | Voidspawn    | Hellspawn         |
+| 15  | Shadowbeast  | Soulbinder        |
+| 16  | Nightshade   | Revenant          |
+| 17  | Specter      | Abyssal Stalker   |
+| 18  | Shadewraith  | Wretch            |
+| 19  | Nightreaver  | Infernal Warden   |
+| 20  | Moonshade    | Tyrant            |
+
 > [!example]
 > Shazan'zanur is a feral twisted undead who craves blood from The Iron Veil. (vampire)
 > 

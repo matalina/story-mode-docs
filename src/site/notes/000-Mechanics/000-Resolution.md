@@ -4,7 +4,7 @@
 
 # Resolution 
 
-The basic resolution mechanic of Story Mode is to roll against a set Level for whatever task you are preforming. A play may use any appropriate tag on their character sheet to [[000-Mechanics/000-Resolution#Modifying the Difficulty\|modify]] the level of the task.
+The basic resolution mechanic of Story Mode is to roll against a set Level for whatever task you are preforming. A player may use any appropriate tag on their character sheet to [[000-Mechanics/000-Resolution#Modifying the Difficulty\|modify]] the level of the task.
 
 A player then rolls a 1d20 against the DC. The DC is equal to 3 times the Level of the task.
 

@@ -8,7 +8,7 @@ Wealth is abstracted into categories. Your wealth is a measure of your your inco
 
 All characters start at a Wealth of 3 unless there are background contingencies set up to allow a higher or lower wealth status.  
 
-At Character creation a player may decide if they are living above or below their character wealth. 
+At Character creation, a player may decide if they are living above or below their character wealth. 
 * When a player is living below their means ease any Wealth checks.
 * When a player is living above their means hinder any Wealth checks.
 

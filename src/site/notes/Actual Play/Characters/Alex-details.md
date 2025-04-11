@@ -5,7 +5,11 @@
 # Details
 
 *Alex Home:* [[Actual Play/Fractured Veil/Setting#9.8\|9.8]]  
-*Alex's Work:* [[Actual Play/Fractured Veil/Setting#3.9\|3.9]]  
+*Alex's Work:* [[Actual Play/Fractured Veil/Setting#3.9\|3.9]]
+
+_Wealth:_ 3 (Above)
+* Comfortable single bedroom apartment (3)
+* 1987 Chevrolet Camaro IROC Z28 (5) → Gift
 
 ## Summary
 

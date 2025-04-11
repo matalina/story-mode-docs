@@ -9,6 +9,7 @@ University
 
 Points of Interest
 * Ashcroft University - historical, forbidden knowledge lurks
+
 #### 2.6 
 High Class Residential District
 #### 3.4 

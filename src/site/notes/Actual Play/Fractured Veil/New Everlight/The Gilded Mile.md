@@ -6,10 +6,6 @@
 
 #### 1.1 
 High Class Residential District
-
-Points of Interest:
-* Café Noir
-
 #### 1.2 
 High Class Residential District
 #### 1.3 

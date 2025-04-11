@@ -11,7 +11,7 @@ _Cold and Bureaucratic_
 
 Points of Interest
 * City Hall - formal, monolithic
-    * Tristan York is the optimistic mayor of New Everlight.
+    * [[Actual Play/Fractured Veil/NPCs#Tristan York\|Tristan York]] is the optimistic mayor of New Everlight.
 #### 6.7 
 Commercial District
 #### 6.8 

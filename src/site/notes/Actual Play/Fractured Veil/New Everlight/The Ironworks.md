@@ -53,12 +53,6 @@ Industrial District
 #### 10.8
 Industrial District
 #### 10.9
-Industrial District
-
-_Gloomy and Heavy-duty_
-
-Points of Interest
-* Nox's Apartment - oil stained, gloomy
-* Shipping & Receiving Yard - labyrinthine, polluted
+Industrial District 
 #### 10.10
 Slums

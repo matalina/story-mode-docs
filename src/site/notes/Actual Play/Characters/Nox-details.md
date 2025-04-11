@@ -7,6 +7,10 @@
 *Nox's Home:* [[Actual Play/Fractured Veil/Setting#10.9\|10.9]]  
 *Nox's Work:* Café Noir @ [[Actual Play/Characters/Nox-details#1.1\|#1.1]]  
 
+_Wealth:_ 3 (Below)
+* Studio apartment (2)
+* Zizzo Liberte (foldable bike) & Bus Pass (0)
+
 ## Summary
 
 * Nox is 25 (Young Adult Aelith/Noctari)
@@ -42,6 +46,8 @@
 *Attire:*  Nox typically tries to blend in with jeans and a non-descript t-shirt. The wraith-silk armor he wears shimmers like a fine sheen above his clothes, and the moon-veil cloak hangs almost invisibly on his back. He wears a pair of custom made Converse Chucks. 
 
 The Ring of Mortal veil changes his porcelain skin to a much lighter than usual human coloring, with brown eyes. His hair is slightly darker platinum blonde with the same dark purple streaks.
+
+_GM Note:_ When close, Nox smells like a candle after blowing it out
 
 ## Questions
 

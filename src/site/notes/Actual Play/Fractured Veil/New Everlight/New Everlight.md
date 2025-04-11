@@ -6,7 +6,7 @@
 
 New Everlight is a modern city in today's world with the exception that magic is real, everyone knows it exists but it is not accessible to everyone. New Everlight has the same technology that exists today with the addition of magic. New Everlight is a big US city like New York, Los Angeles and Chicago. There are underlying factions. There is the Faerie Mound, which connects New Everlight to the Wyld. And a Shadow Rift that connects it to the Nether. Supernatural creatures dwell in the shadows, and some even right out in the open. 
 
-**Districts**
+**Districts** - [[Actual Play/Fractured Veil/Locations\|Named Locations]]
 * [[Actual Play/Fractured Veil/New Everlight/The Gilded Mile\|The Gilded Mile]]
 * [[Actual Play/Fractured Veil/New Everlight/Everlight Commons\|Everlight Commons]]
 * [[Actual Play/Fractured Veil/New Everlight/The Ivory Ward\|The Ivory Ward]]

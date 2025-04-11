@@ -22,7 +22,7 @@ _Weapon:_
 * [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
 _Armor:_ [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
 
-_Wealth:_ 3
+_Wealth:_ 3 (Below)
 
 | Wound | Severity |
 | ----- | -------- |
@@ -33,6 +33,9 @@ _Wealth:_ 3
 |       |          |
 
 Equipment: _Max Capacity → 10_
+* Studio Apartment
+* Zizzo Liberte Foldable Bike
+* Public Transportation Pass
 * [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
 * [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
 * [[Actual Play/Fractured Veil/Items#Smart Phone\|Smartphone]]

@@ -22,7 +22,7 @@ Commercial District
 _Crowded and Shadowy_
 
 Points of Interest:
-* Ironbound Hunters HQ - historic, chaotic
+* Ironbound Hunters LLC - historic, chaotic
 
 #### 3.10
 Park District - **Everlight Commons**
@@ -31,6 +31,7 @@ _Romantic and Social Hub_
 
 Points of Interest:
 * Faerie Mound - scenic, colorful
-* 
+* Café Noir - bustling, social hub
+
 #### 4.10
 Middle Class Residential

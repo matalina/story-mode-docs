@@ -9,7 +9,7 @@
 ### Benjamin Qualls
 Benjamin Qualls is a Level 6 Ferai blood-bound Ritualist who Binds Creatures to their will.
 
-Leader of [[Actual Play/Fractured Veil/Lore#The Ironbound Hunters\|The Ironbound Hunters]]
+Leader of [[Actual Play/Fractured Veil/Lore-Factions#The Ironbound Hunters\|The Ironbound Hunters]]
 
 ### Blaze
 See [[Actual Play/Fractured Veil/NPCs#Kyle Bennett\|#Kyle Bennett]]
@@ -73,7 +73,7 @@ Nyssara Myrris is a Level 10 cunning Noctari who Whispers Secrets in The Shadows
 
 Nyssara has flowing, dark indigo hair. Her eyes are a piercing silver. Her skin is the pale moonlit gray. She is 5'9", 142lbs with an aura like a whisper in the dark. (Moon)
 
-Leader of [[Actual Play/Fractured Veil/Lore#The Shadowborn\|The Shadowborn]] aka [[Actual Play/Fractured Veil/NPCs#The Shadow Witch\|#The Shadow Witch]]
+Leader of [[Actual Play/Fractured Veil/Lore-Factions#The Shadowborn\|The Shadowborn]] aka [[Actual Play/Fractured Veil/NPCs#The Shadow Witch\|#The Shadow Witch]]
 
 ## S
 

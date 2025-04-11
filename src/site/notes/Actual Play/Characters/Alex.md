@@ -10,7 +10,7 @@ Alex is a \[**charismatic**] \[**Drakari**] \[**Bounty Hunter**] who \[**Made a 
 ***
 * Revealed the Existence of Dragons
 * Has a Gilded Voice
-* Always wanted to be a Rockstar
+* Aspires to be a Rockstar
 * Sings with Magical Fortitude
 * Fears his death
 * People are an open book
@@ -22,7 +22,7 @@ _Weapons:_
 * [[Actual Play/Fractured Veil/Items#Chameleon's Fang\|Chameleon's Fang]]
 *Armor:* [[Actual Play/Fractured Veil/Items#Enchanted Leather Duster\|Enchanted Leather Duster]] (medium)
 
-*Wealth:* 3
+*Wealth:* 3 (Above)
 
 | Wound | Severity |
 | ----- | -------- |
@@ -33,6 +33,8 @@ _Weapons:_
 |       |          |
 
 Equipment: _Max Capacity → 10_
+* One Bedroom Apartment
+* 1987 Camaro Z28
 * [[Actual Play/Fractured Veil/Items#Iron-bite Revolver\|Iron-bite Revolver]]
 * [[Actual Play/Fractured Veil/Items#Chameleon's Fang\|Chameleon's Fang]]
 * [[Actual Play/Fractured Veil/Items#Enchanted Leather Duster\|Enchanted Leather Duster]]
@@ -42,13 +44,13 @@ Equipment: _Max Capacity → 10_
 * (empty)
 * (empty)
 * (empty)
-* (empty)
+* [[Actual Play/Fractured Veil/Items#Stone Guide\|Stone Guide]]
 
 *Relationships/Faction:*
 * [[Actual Play/Fractured Veil/Lore#The Ironbound Hunters\|The Ironbound Hunters]]: Loyal (+1) → Employed by
 * [[Actual Play/Fractured Veil/Lore#The Flame Wardens\|The Flame Wardens]]: Loyal (+1) → Family
 * [[Actual Play/Fractured Veil/NPCs#Benjamin Qualls\|Benjamin Qualls]] Enduring Trust (+1) →  Boss
-* [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]:  Conflict (-1) → Powerful Being
+* [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]: Conflict (-1) → Powerful Being
 * [[Actual Play/Fractured Veil/NPCs#Freya Alaric\|Freya Alaric]]: Enduring Trust (+1) -> Mother
 
 *Character Arc:*

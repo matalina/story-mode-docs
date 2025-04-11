@@ -185,7 +185,7 @@
 | 97-100 | Is a \[descriptor] activist                           |
 ## Hunter NPCs
 
-| d20 | Type               | Does Something                      |
+| d20 | Type               | Hunters Focus                       |
 | --- | ------------------ | ----------------------------------- |
 | 1   | Slayer             | Slays with Brutal Efficiency        |
 | 2   | Exorcist           | Sacrifices Everything               |
