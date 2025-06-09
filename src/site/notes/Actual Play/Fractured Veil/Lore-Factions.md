@@ -15,6 +15,13 @@ The Ashen Legion believe that with The Revelation, the time has come for the Dra
 
 **Location:** Compound @ [[Actual Play/Fractured Veil/Setting#9.4\|9.4]]
 
+## D
+
+### Division of Veil Transit (DVT)
+Government - Realm Transit
+
+The Division of Veil Transit is in charge of the security measures outside the Faerie Mound and Shadow Rifts in New Everlight (and around the world).
+
 ## F
 
 ### The Flame Wardens
@@ -51,7 +58,7 @@ These Noctari grant power and wealth that comes with inevitable price that every
 ### The Hellraisers
 Crime Syndicate
 
-A crime syndicate rivaling [[Actual Play/Fractured Veil/Lore-Factions#The Razorborn\|#The Razorborn]] in platform but with the intent of disruption as mush as profit.
+A crime syndicate rivaling [[#The Razorborn]] in platform but with the intent of disruption as mush as profit.
 
 **Leader:** [[Actual Play/Fractured Veil/NPCs#Kyle Bennett\|Kyle Bennett]] aka Blaze
 
@@ -70,6 +77,11 @@ The Ironbound Hunters is an organization of who contract out bounties to their e
 
 ## N
 
+### New Everlight Arcane Authority (NEAA)
+Government - Magical Oversight
+
+The New Everlight Arcane Authority (NEAA) is the centralized regulatory body overseeing the lawful use, restriction, and transit of magic within and around the city of New Everlight.
+
 ### New Everlight Government
 Politics/Government
 
@@ -78,6 +90,8 @@ The City is run by a major with his cabinet set to advise him.
 **Leader:** [[Actual Play/Fractured Veil/NPCs#Tristan York\|Tristan York]]
 
 **Location:** City Hall @ [[Actual Play/Fractured Veil/Setting#6.6\|6.6]]
+
+
 
 ## R
 

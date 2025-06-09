@@ -15,7 +15,7 @@
 | 4   | roll again    |
 **Type:**
 
-| d10 | The Iron Veil | The Wyld     | The Nether    |
+| d12 | The Iron Veil | The Wyld     | The Nether    |
 | --- | ------------- | ------------ | ------------- |
 | 1   | Ferai (NPC)   | Aelith (NPC) | Noctari (NPC) |
 | 2   | Drakari (NPC) | Animal       | Animal        |
@@ -27,29 +27,31 @@
 | 8   | Draconic      | Ghost        | Golem         |
 | 9   | Ooze/Slime    | Elemental    | Shadow        |
 | 10  | Insect        | Fey          | Fiend         |
+| 11  | Alien         | Giant        | Giant         |
+| 12  | Celestial     | Monstrosity  | Monstrosity   |
 
-| d20 | Motivation           | Descriptor | Disposition |
-| --- | -------------------- | ---------- | ----------- |
-| 1   | Destroys everything  | Shadowed   | Cunning     |
-| 2   | Defends itself       | Hulking    | Vicious     |
-| 3   | Seeks knowledge      | Twisted    | Wrathful    |
-| 4   | Hungers for flesh    | Ancient    | Patient     |
-| 5   | Craves blood         | Unstable   | Feral       |
-| 6   | Feeds on life-force  | Stonebound | Loyal       |
-| 7   | Defies explanation   | Whispering | Enigmatic   |
-| 8   | Seeks a host         | Thorned    | Malevolent  |
-| 9   | Feeds on fear        | Frozen     | Stoic       |
-| 10  | Hates relentlessly   | Shifting   | Relentless  |
-| 11  | Defends its domain   | Radiant    | Proud       |
-| 12  | Protects something   | Masked     | Deceitful   |
-| 13  | Explores endlessly   | Hollow     | Melancholy  |
-| 14  | Struggles to survive | Keen-eyed  | Inquisitive |
-| 15  | Alters itself        | Bloodied   | Savage      |
-| 16  | Fixates obsessively  | Weathered  | Resilient   |
-| 17  | Seeks vengeance      | Barbed     | Cruel       |
-| 18  | Inflicts suffering   | Glowing    | Devoted     |
-| 19  | Seeks power          | Cracked    | Paranoid    |
-| 20  | Loves deeply         | Ethereal   | Tranquil    |
+| d20 | Type        | Motivation           | Descriptor | Disposition |
+| --- | ----------- | -------------------- | ---------- | ----------- |
+| 1   | Humanoid    | Destroys everything  | Shadowed   | Cunning     |
+| 2   | Animal      | Defends itself       | Hulking    | Vicious     |
+| 3   | Automation  | Seeks knowledge      | Twisted    | Wrathful    |
+| 4   | Mechanical  | Hungers for flesh    | Ancient    | Patient     |
+| 5   | Ghost       | Craves blood         | Unstable   | Feral       |
+| 6   | Undead      | Feeds on life-force  | Stonebound | Loyal       |
+| 7   | Draconic    | Defies explanation   | Whispering | Enigmatic   |
+| 8   | Ooze/Slime  | Seeks a host         | Thorned    | Malevolent  |
+| 9   | Insect      | Feeds on fear        | Frozen     | Stoic       |
+| 10  | Plant       | Hates relentlessly   | Shifting   | Relentless  |
+| 11  | Chimera     | Defends its domain   | Radiant    | Proud       |
+| 12  | Golem       | Protects something   | Masked     | Deceitful   |
+| 13  | Fiend       | Explores endlessly   | Hollow     | Melancholy  |
+| 14  | Elemental   | Struggles to survive | Keen-eyed  | Inquisitive |
+| 15  | Fey         | Alters itself        | Bloodied   | Savage      |
+| 16  | Shadow      | Fixates obsessively  | Weathered  | Resilient   |
+| 17  | Alien       | Seeks vengeance      | Barbed     | Cruel       |
+| 18  | Celestial   | Inflicts suffering   | Glowing    | Devoted     |
+| 19  | Giant       | Seeks power          | Cracked    | Paranoid    |
+| 20  | Monstrosity | Loves deeply         | Ethereal   | Tranquil    |
 
 ## Names
 
@@ -146,43 +148,52 @@ For a Chimera roll twice on Animal and/or Insect
 | 19  | Maneater  | Arcane     | Air Titan       | Redcap     |
 | 20  | Briar     | Plague     | Earth Titan     | Darkling   |
 
-| d20 | Shadow       | Fiend             |
-| --- | ------------ | ----------------- |
-| 1   | Shadow       | Fiend             |
-| 2   | Shade        | Devil             |
-| 3   | Wraith       | Imp               |
-| 4   | Nightstalker | Quasit            |
-| 5   | Shadowmancer | Demon             |
-| 6   | Darkling     | Hellhound         |
-| 7   | Dreadshade   | Balor             |
-| 8   | Deathshade   | Brute             |
-| 9   | Gloombeast   | Succubus/Inccubus |
-| 10  | Blackmist    | Demon Lord        |
-| 11  | Phantom      | Archdevil         |
-| 12  | Shadewalker  | Pit Fiend         |
-| 13  | Umbra        | Infernal Knight   |
-| 14  | Voidspawn    | Hellspawn         |
-| 15  | Shadowbeast  | Soulbinder        |
-| 16  | Nightshade   | Revenant          |
-| 17  | Specter      | Abyssal Stalker   |
-| 18  | Shadewraith  | Wretch            |
-| 19  | Nightreaver  | Infernal Warden   |
-| 20  | Moonshade    | Tyrant            |
+| d20 | Shadow       | Fiend             | Celestial        |
+| --- | ------------ | ----------------- | ---------------- |
+| 1   | Shadow       | Fiend             | Luminar          |
+| 2   | Shade        | Devil             | Radiant Herald   |
+| 3   | Wraith       | Imp               | Seraph           |
+| 4   | Nightstalker | Quasit            | Dawnbringer      |
+| 5   | Shadowmancer | Demon             | Starwarden       |
+| 6   | Darkling     | Hellhound         | Lightwarden      |
+| 7   | Dreadshade   | Balor             | Solarion         |
+| 8   | Deathshade   | Brute             | Radiant Sentinel |
+| 9   | Gloombeast   | Succubus/Inccubus | Beacon           |
+| 10  | Blackmist    | Demon Lord        | Angelic Avenger  |
+| 11  | Phantom      | Archdevil         | Celestial Judge  |
+| 12  | Shadewalker  | Pit Fiend         | Lightbringer     |
+| 13  | Umbra        | Infernal Knight   | Dawnseeker       |
+| 14  | Voidspawn    | Hellspawn         | Luminous Warden  |
+| 15  | Shadowbeast  | Soulbinder        | Starforged       |
+| 16  | Nightshade   | Revenant          | Halo             |
+| 17  | Specter      | Abyssal Stalker   | Solar Warden     |
+| 18  | Shadewraith  | Wretch            | Glorious Herald  |
+| 19  | Nightreaver  | Infernal Warden   | Dawnlight        |
+| 20  | Moonshade    | Tyrant            | Radiant Wraith   |
 
-> [!example]
-> Shazan'zanur is a feral twisted undead who craves blood from The Iron Veil. (vampire)
-> 
-> Zolzekom is a savage shifting human who struggles to survive from the Iron Veil. (werewolf)
-> 
-> Shagriir is relentless hollow undead who hungers for flesh from The Iron Veil. (zombie)
-> 
-> Skarvauth is a melancholy ethereal ghost who seeks vengeance from The Iron Veil. (banshee) 
-> 
-> Tha'zixrinek is a cunning shadowed human who seeks power from The Iron Veil. (witch)
-> 
-> Asul'ozadak is a feral barbed animal who seeks a host from The Iron Veil. (chupacabra)
-> 
-> Thabraxnaken is a cunning shifting animal who explores endlessly from The Iron Veil. (kitsune)
+| d20 | Giant           | Monstrosity  | Alien           |
+| --- | --------------- | ------------ | --------------- |
+| 1   | Stonebreaker    | Bloodmaw     | Mindseer        |
+| 2   | Thunderfoot     | Skulldrake   | Thoughtweaver   |
+| 3   | Ironjaw         | Venomspine   | Psion           |
+| 4   | Mountainstalker | Blightmaw    | Brainfiend      |
+| 5   | Colossus        | Goremaw      | Voidling        |
+| 6   | Skycrusher      | Fangjaw      | Mindflayer      |
+| 7   | Earthshaker     | Fleshgrinder | Dreamfiend      |
+| 8   | Frosttusk       | Deathclaw    | Echo            |
+| 9   | Stormbreaker    | Rotfang      | Whisperer       |
+| 10  | Giantkin        | Bonegnasher  | Thoughtspawn    |
+| 11  | Ironmaw         | Carrionfiend | Synapse         |
+| 12  | Titan           | Plaguebeast  | Brainstorm      |
+| 13  | Goliath         | Horrorclaw   | Mindpiercer     |
+| 14  | Colossus King   | Venomclaw    | Astral Stalker  |
+| 15  | Earthbreaker    | Bonecrusher  | Dreamstalker    |
+| 16  | Thunderlord     | Gravetalon   | Psychic Shade   |
+| 17  | Icebreaker      | Bloodreaper  | Mindshard       |
+| 18  | Stonebeard      | Deathspike   | Voidwalker      |
+| 19  | Stormtusk       | Plagueclaw   | Cerebral Horror |
+| 20  | Frostmaw        | Doomfang     | Thought Reaver  |
+
 
 ## Basic Attacks
 
@@ -218,14 +229,23 @@ Ethereal: Ghost, Shadow
 | 5   | Physical (stuck)  | Physical (wing buffet) | Elemental (earth) |
 | 6   | Physical (punch)  | Physical (claw)        | Chaos (blast)     |
 
-| d6  | Undead             | Plant                    |
-| --- | ------------------ | ------------------------ |
-| 1   | Necrotic           | Physical (vine whip)     |
-| 2   | Shadow             | Physical (root entangle) |
-| 3   | Physical (weapon)  | Toxic                    |
-| 4   | Physical (bite)    | Physical (crush)         |
-| 5   | Toxic (disease)    | Physical (thorns)        |
-| 6   | Physical (grapple) | Chaos                    |
+| d6  | Undead             | Plant                    | Giant (Physical)              |
+| --- | ------------------ | ------------------------ | ----------------------------- |
+| 1   | Necrotic           | Physical (vine whip)     | Physical (massive club smash) |
+| 2   | Shadow             | Physical (root entangle) | Physical (ground stomp)       |
+| 3   | Physical (weapon)  | Toxic                    | Physical (tree throw)         |
+| 4   | Physical (bite)    | Physical (crush)         | Physical (rock throw)         |
+| 5   | Toxic (disease)    | Physical (thorns)        | Physical (fist slam)          |
+| 6   | Physical (grapple) | Chaos                    | Physical (charge)             |
+
+| d6  | Celestial (Radiant)     | Alien (Psychic)            | Monstrosity (Mixed)     |
+| --- | ----------------------- | -------------------------- | ----------------------- |
+| 1   | Radiant (blast)         | Psychic (mind crush)       | Physical (claw swipe)   |
+| 2   | Radiant (smite)         | Psychic (telekinetic slap) | Elemental (acid spray)  |
+| 3   | Physical (holy strike)  | Psychic (confusion wave)   | Toxic (poisonous bite)  |
+| 4   | Radiant (flare)         | Psychic (mental spike)     | Physical (tail whip)    |
+| 5   | Radiant (healing light) | Psychic (domination)       | Elemental (fire breath) |
+| 6   | Radiant (blinding ray)  | Psychic (illusion)         | Toxic (disease)         |
 
 ## Clues
 

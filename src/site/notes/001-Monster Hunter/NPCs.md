@@ -199,7 +199,7 @@
 | 10  | Gadgeteer          | Reads Omens and Visions             |
 | 11  | CyberHunter        | Communes with Ghosts                |
 | 12  | Forensic Occultist | Binds Creatures to their Will       |
-| 13  | Half-Blood         | Unravels Occult Mysteries           |
+| 13  | Monster Wright     | Unravels Occult Mysteries           |
 | 14  | Mercy Killer       | Analyzes Crime Scenes               |
 | 15  | Monster Turncoat   | Reads Magical Auras                 |
 | 16  | Lone Wolf          | Uses Enhanced Senses                |

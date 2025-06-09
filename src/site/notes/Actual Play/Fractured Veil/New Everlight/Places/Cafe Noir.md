@@ -8,7 +8,7 @@
 > Café Noir was like stepping back into the 1920s in some old detective flick. The whole place was a black and white motif with splashes of muted red like color was first being introduced into a black and white world. Soft Jazz music played through the speakers. And it smelled of nothing but brewing coffee. 
 > 
 > Sure, they had pastries and fancy smoothies, but it was all about the coffee -- a special blend found across the Faerie Mound. Or at least that's what they said.
-> ~ [[Actual Play/Tale-001/T001-S004-Alex\|Alex]]
+> ~ [[Actual Play/_archive/Tale-001/T001-S004-Alex\|Alex]]
 
 ## Menu
 

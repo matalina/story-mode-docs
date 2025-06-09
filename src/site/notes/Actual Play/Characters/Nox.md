@@ -2,27 +2,36 @@
 {"dg-publish":true,"permalink":"/actual-play/characters/nox/","pinned":true}
 ---
 
-# Nox
+# Nox Westbrook
 _ae'Noxan Vaelric and Ith'Noxil Myrris_
 
-Nox is a \[**cursed**] \[**half-blood**] \[**Hex-blade**] who \[**Protects the Wyld**].
+Nox is an \[**exiled**] \[**half-blood**] \[**Monster Wright**] who \[**Bleeds Wild Magic**].
 
 ***
-* Revealed the Existence of Magic
-* Whispers in the Dark
-* Makes Binding Oaths
-* Savior Complex
-* One with Our Mother of Blossoming Chaos
-* Does Not Lie
-* Obsessive (pride)
-* Perfectionist (pride)
+* Revealed the Existence of Magic (background)
+* Whispers in the Dark (1)
+* Is Heir to a Trust Fund (2)
+* Has a Savior Complex (3)
+* ?? (4) 
+* Does Not Lie, Or is it Cannot Lie? (5)
+* Has a Magical Glamor Tattoo (flaw+)
+* Tangled in Thought (sloth)
+* Bound by Patterns (pride)
+* Vulnerable to Iron and Silver (half-blood)
+* Walks Between Shadows (half-blood)
+* Makes Binding Oaths (half-blood)
+* Salvage Monster Parts (monster wright)
+* Understand monsters in strange and uncanny ways (monster wright)
 
 _Weapon:_ 
-* [[Actual Play/Fractured Veil/Items#Pact Weapon\|Pact Weapon]]
-* [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
-_Armor:_ [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
+* [[Actual Play/Fractured Veil/Items#Dreambound Staff]\|Dreambound Staff]]
+* [[Actual Play/Fractured Veil/Items#Creeping Hunger\|Creeping Hunger]]
+* [[Actual Play/Fractured Veil/Items#Shadowsbite\|Shadowsbite]]
+_Armor:_ [[Actual Play/Fractured Veil/Items#Ghostweave\|Ghostweave]] (light)
 
-_Wealth:_ 3 (Below)
+_Wealth:_ 4 (Below) _increased by Is Heir to Trust Fund_  
+_Tier:_ II (unrecorded IV)  
+_MAI:_ 4 (unrecorded 9)  
 
 | Wound | Severity |
 | ----- | -------- |
@@ -33,73 +42,67 @@ _Wealth:_ 3 (Below)
 |       |          |
 
 Equipment: _Max Capacity → 10_
-* Studio Apartment
-* Zizzo Liberte Foldable Bike
-* Public Transportation Pass
-* [[Actual Play/Fractured Veil/Items#Obsidian Dagger\|Obsidian Dagger]]
-* [[Actual Play/Fractured Veil/Items#Wraith-silk Armor\|Wraith-silk Armor]]
-* [[Actual Play/Fractured Veil/Items#Smart Phone\|Smartphone]]
-* [[Actual Play/Fractured Veil/NPCs#Khyreel\|Khyreel]]'s Vial of Shadow
-* [[Actual Play/Fractured Veil/Creatures#^df55ba\|Bloom Dragon]] named Naerynn
-* (empty)
-* (empty)
-* (empty)
-* (empty)
-* (empty)
+* Studio Apartment (housing)
+* Zizzo Liberte Foldable Bike (transportation)
+* Public Transportation Pass (transportation) 
+1. [[Actual Play/Fractured Veil/Items#Dreambound Staff]\|Dreambound Staff]]
+2. [[Actual Play/Fractured Veil/Items#Ghostweave\|Ghostweave]]
+3. [[Actual Play/Fractured Veil/Items#Smart Phone\|Smartphone]]
+4. [[Actual Play/Fractured Veil/Items#Creeping Hunger\|Creeping Hunger]]
+5. [[Actual Play/Fractured Veil/Items#Shadowsbite\|Shadowsbite]]
+6. [[Actual Play/Fractured Veil/Items#Monster Hunter Kit\|Monster Hunter Kit]]
+7. (empty)
+8. (empty)
+9. (empty)
+10. (empty)
 
 _Relationships/Factions:_
-* [[Actual Play/Fractured Veil/Lore#The Gilded Chain\|The Gilded Chain]]: Reliable (+0) → Born into and raised in their image
-* [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]: Enduring Trust (+1) → Nox's father
-* [[Actual Play/Fractured Veil/NPCs#Khyreel\|Khyreel]]: Enduring Trust (+1) → Imaginary Friend
-* [[Actual Play/Fractured Veil/NPCs#Vaelistra\|Hag]]: Indifferent (+0) → Owes a Favor to 
-* Our [[Actual Play/Fractured Veil/NPCs#Mother of the Blooming Chaos\|Mother of Blooming Chaos]]: Enduring Trust (+1) → Goddess of the Wyld
+* (faction)
+* (relationship)
+* (relationship)
+* (relationship)
 
 _Character Arc:_
-* Nox is looking to **find where he belongs**.
+* Nox is looking to **looking to make up for his past mistakes.**
 
 _Quests:_
-- [ ] Find the lost [[Actual Play/Fractured Veil/Creatures#^1651a2\|Glimmerpaw]] in the Iron Veil
-- [ ] Discover and Destroy what is harming the Faerie Mound in the Iron Veil
+- [ ] Nox is hunting [[Actual Play/Fractured Veil/Creatures#^dd4e1c\|the creature]] that killed Wesley Boone.
+- [ ] Nox wants to finish all of Wesley Boone's unfinished hunts found in his journal.
 
 ## Half-blood
 Nox is half _Aelith_ and _Noctari_ **ostracized by both communities**. 
 
-He is **elegant** and **mysterious**. He can connect with **magic**, **shadows** and **chaos** and is **woven into the fabric** of the Wyld. Nox also is **vulnerable to silver and iron** and speaks with a **whispering, ethereal voice**.
+He is **elegant** and **mysterious**. He can connect with **magic**, **shadows**, and **chaos** and is **woven into the fabric** of the Wyld. Nox also is **vulnerable to silver and iron** and speaks with a **whispering, ethereal voice**.
 
 _Languages:_ English, Aelith
 
 _Abilities:_
 * **Walks Between Shadows**
-* **Threads of Chaos**
-
-## Cursed
-
-Curse of Suppression -- Nox's shadow magic is locked behind the Hex-blade pact made with his father.
-
-Curse of the Revelation -- Nox revealed magic to the Iron Veil and is fueled by guilt of his actions.
-
-Curse of Walking Between the Realms -- Being a half blood makes him an outcast in all Realms.
+* **Makes Binding Oaths**
 
 ## Known Spells
 
-### Conjure Weapon
+### Glamor
+A spell etched (tattooed) into Nox's skin when he was 9 so that he could look normal.
 
+**Tier:** 0
 **Level:** 0 (0)
-**Aspect:** Shadow
-**Type:** Summon
-**Effect:** Summons a [[Actual Play/Fractured Veil/Items#Pact Weapon\|Pact Weapon]]
-**Range:** Touch (-2)
+**Aspect:** Illusion
+**Type:** Control
+**Effect:** Changes one's appearance to the premeditated look they prescribed/manifested in the casting minute
+**Range:** 30ft
 **Area of Effect:** single
-**Targets:**  self (-1)
+**Targets:** self (-1)
 **Duration:** activate/deactivate (-1)
-**Cast Time:** Quicken (+1)
+**Cast Time:** 1 min (-1)
 
-**Activation:** Kyrth dor'ashka (Forge shadow blade)
-**Deactivation:** Shen dor'ashka (End shadow blade)
+_Activation:_ Touching the tattoo and concentrating for 1 minute on what you want to look like
+_Deactivation:_ Touching the tattoo and reciting "shen vylan" (end veil)
 
 ### Shadow Walk (near)
 
-**Level:** 1 (3)
+**Tier:** 0
+**Level:** ~~1 (3)~~ → 0 (0) _eased by Walks between Shadows_
 **Aspect:** Shadow
 **Type:** Control
 **Effect:** Use a nearby shadow to teleport to another shadow in view.
@@ -111,7 +114,8 @@ Curse of Walking Between the Realms -- Being a half blood makes him an outcast i
 
 ### Shadow Walk (anywhere)
 
-**Level:** 2 (6)
+**Tier:** I
+**Level:** ~~2 (6)~~ → 1 (3) _eased by Walks Between Shadows_
 **Aspect:** Shadow
 **Type:** Control
 **Effect:** Use a nearby shadow to teleport to another shadow known to the caster anywhere on the same plane.
@@ -123,15 +127,58 @@ Curse of Walking Between the Realms -- Being a half blood makes him an outcast i
 
 ### Binding Oath
 
-**Level:** 3 (9)
+**Tier:** I
+**Level:** ~~2 (6)~~ → 0 (0) _eased by Makes Binding Oaths and Sows Chaos_
 **Aspect:** Sound & Mind (+1)
 **Type:** Control
 **Effect:** Minds the oath of both grantor and beneficiary to their side of the bargain
 **Range:** 5ft (-1)
 **Area of Effect:** single
-**Targets:** 2 (+1)
+**Targets:** 1
 **Duration:** activate/deactivate (-1)
 **Cast Time:** 1 action
 
 **Activation:** Any variation of "A pact is made", "agreed", "I promise", etc.
-**Deactivation:** Breaking either side of the oath
+**Deactivation:** Breaking either side of the oath.
+
+_Note:_ Saying any variation of "I promise" to Nox automatically invokes the bond due to his chaos magic.
+
+### Chaos Surge
+
+**Tier:** IV
+**Level:** 5 (15) -- cannot be eased or hindered
+**Aspect:** Chaos
+**Type:** Control
+**Effect:** When magic is used with in a 30ft radius of the 'cursed one' a magical surge happens in a 5ft radius of the 'cursed one' including themselves. Roll on the Chaos table to see what triggers.
+**Range:** 30ft
+**Area of Effect:** 10ft Area of Effect (single target)
+**Duration:** instant (-2)
+**Cast Time:** N/A
+
+_Activation:_ Whenever magic is cast within a 30ft radius
+
+#### Chaos Table
+
+| d20 | Verb        | Noun       | Duration                                |
+| --- | ----------- | ---------- | --------------------------------------- |
+| 1   | Enhances    | Magic      | 1 action                                |
+| 2   | Distorts    | Time       | 1 minute                                |
+| 3   | Bends       | Space      | 1d10 minutes                            |
+| 4   | Corrupts    | Perception | 1 hour                                  |
+| 5   | Weakens     | Sound      | 1d4 hours                               |
+| 6   | Devours     | Flesh      | 1d10 hours                              |
+| 7   | Amplifies   | Gravity    | 1 day                                   |
+| 8   | Warps       | Memory     | 1d4 days                                |
+| 9   | Fractures   | Emotion    | until you roll a natural 20             |
+| 10  | Strengthens | Reality    | permanently                             |
+| 11  | Mutes       | Thought    | 1 action                                |
+| 12  | Shifts      | Luck       | 1 minute                                |
+| 13  | Mirrors     | Intention  | 1d10 minutes                            |
+| 14  | Transposes  | Identity   | 1 hour                                  |
+| 15  | Displaces   | Light      | 1d4 hours                               |
+| 16  | Echoes      | Sound      | 1d10 hours                              |
+| 17  | Splinters   | Will       | 1 day                                   |
+| 18  | Illuminates | Shadow     | 1d4 days                                |
+| 19  | Summons     | Reflection | until you roll a natural 20             |
+| 20  | Shatters    | Boundaries | DM’s choice or roll twice on this table |
+

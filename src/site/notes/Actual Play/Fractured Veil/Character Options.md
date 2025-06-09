@@ -8,14 +8,14 @@
 
 The Species tag is an umbrella tag.
 
-Choose a Species.  The bolded words are tags that are included under each species and can be used to ease or hinder any task or action.  
+Choose a species. The bold words are tags that are included under each species and can ease or hinder any task or action.  
 
 ### Ferai
 Human 
 
-The Ferai are most common species in New Everlight.
+The Ferai are the most common species in New Everlight.
 
-The Ferai are a **persistent** and **adaptable** people, **hardened by the unyielding grip** of the Iron Vei. Ferai do not have innate magic, but they can **learn magic**. The Ferai are a **distrustful** species, never quite open to change or new things. 
+The Ferai are a **persistent** and **adaptable** people, **hardened by the unyielding grip** of the Iron Veil. Ferai **do not have innate magic**, but they can **learn magic**. The Ferai are a **distrustful** species, **never quite open to change or new things**. 
 
 **Languages:** English, [[Actual Play/Fractured Veil/Terms#^191612\|Netlish]] 
 
@@ -34,7 +34,7 @@ The Ferai are a **persistent** and **adaptable** people, **hardened by the unyie
 | 21-25 | New Adult   |                 |                 |
 | 25-62 | Adult       |                 | Fully Matured   |
 | 62+   | Elder       | Losing Function | Losing Function |
-Physical and Mental begin at the start of each Life Stage.
+Physical and Mental stages begin at the start of each Life Stage.
 
 The Ferai have a wide variety of skin tones, from porcelain to deep brown, and a broad spectrum of hair colors, ranging from jet black to blonde and even vibrant reds; their eyes are predominantly brown, but hues of blue, green, and gray are also common, reflecting their diverse and adaptable nature.
 
@@ -65,7 +65,7 @@ The Ferai have a wide variety of skin tones, from porcelain to deep brown, and a
 ### Aelith
 Fey Elf
 
-The Aelith are the most predominate species in The Wyld. A few live in New Everlight and Suffer the Chill of Iron.
+The Aelith are the most predominate species in The Wyld. A few live in New Everlight and **Suffer the Chill of Iron**.
 
 The Aelith are an **elegant** and **enigmatic** people, **woven into the fabric** of the Wyld, where their connection to **magic** and **chaos** flow effortlessly. Aelith are **vulnerable to iron**. The Aelith have **flowing, musical voices**.
 
@@ -120,7 +120,7 @@ The Aelith radiate with vibrant, luminous skin tones that range from soft pastel
 ### Noctari
 Shadow Elf
 
-The Noctari are the most predominate species in The Nether. A few live in New Everlight and suffer the Chill of Iron.
+The Noctari are the most predominate species in The Nether. A few live in New Everlight and **Suffer the Chill of Iron**.
 
 The Noctari are a **mysterious** and **resilient** people, **shaped by the shadows** of the Nether, where their connection to **magic** and **shadows** is both haunting and powerful. Noctari are **vulnerable to silver**. The Noctari have **whispering, ethereal voices**.
 
@@ -128,7 +128,7 @@ The Noctari are a **mysterious** and **resilient** people, **shaped by the shado
 
 **Abilities:**
 * **Walk Between Shadows** that are visible or known
-* Project their voices like **Whispers in the Dark** to communicate without giving away their location.
+* Project their voices like **Whispers in the Dark**.
 
 | Age     | Life Stage  | Physical        | Mental          |
 | ------- | ----------- | --------------- | --------------- |
@@ -170,9 +170,9 @@ The Noctari possess an ethereal, shadowy allure, with skin tones ranging from de
 ### Drakari
 Dragon
 
-The Drakari are a small close knit species, few live in New Everlight, most choosing to live in places their Dragon form can go unnoticed.
+The Drakari are a small, close knit species. Few live in New Everlight, most choosing to live in places their Dragon form can go unnoticed.
 
-The Drakari are a **formidable** and **ancient** species, **shaped by the flames** of their **fire magic** and **shapeshifting** makes them a powerful force. Because of their ancient standing, the Drakari are a **prideful** species. The Drakari have **rough, gritty voices**.
+The Drakari are a **formidable** and **ancient** species, **shaped by the flames** of their **fire magic**, and **shapeshifting** makes them a powerful force. Because of their ancient standing, the Drakari are a **prideful** species. The Drakari have **rough, gritty voices**.
 
 **Languages:** Drakari, English
 
@@ -249,7 +249,7 @@ Roll the dice in the Modifier column, multiply it your previous height dice roll
 
 Half-bloods are rare in the Wyld, the Nether and the Iron Veil. A few live in New Everlight.
 
-Ferai, Aelith, Noctari and Drakari can all mate successfully with one another producing half-bloods.  Half-bloods take on characteristics of their parentage and are often **ostracized by both communities** for being different.
+Ferai, Aelith, Noctari, and Drakari can all mate successfully with one another, producing half-bloods. Half-bloods take on characteristics of their parentage and are often **ostracized by both communities** for being different.
 
 \[Name] is half _\[pick a species]_ and _\[pick a species]_ who is **ostracized by both communities**. 
 
@@ -324,7 +324,7 @@ A Lone Wolf is a **solitary hunter** who **relies on their own skills**, instinc
 
 **Abilities**
 * You thrive alone and are **self-sufficient**.
-* You are a **silent stalker** moving unseen and unheard through all terrain.
+* You are a **silent stalker** moving unseen and unheard.
 
 ### Hex-blade
 A Hex-Blade is a **warrior of shadow**, wielding a weapon infused with **mystic power**, channeling **dark enchantments** and **forged curses** to strike down the creatures of the night.
@@ -332,6 +332,14 @@ A Hex-Blade is a **warrior of shadow**, wielding a weapon infused with **mystic 
 **Abilities**
 * You wield an **ethereal blade** you summon with a word.
 * You curse your target with a **Shadow Hex**.
+
+### Monster Wright
+A Monster Wright **studies, harvests, and repurposes the remains of creatures**, **crafting potent weapons and armor** from their essence to hunt monsters with monsters.
+
+**Abilities**
+
+- You can **salvage parts** from slain creatures to forge unique tools, weapons, or armor.
+- You **understand monsters in strange and uncanny ways**, allowing you to anticipate their instincts, weaknesses, and hidden traits
 
 ## Descriptors
 

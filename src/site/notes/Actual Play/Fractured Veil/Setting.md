@@ -22,3 +22,8 @@
 * [[The Wyld.canvas|The Wyld]]
 * [[The Nether.canvas|The Nether]]
 
+## GM Notes
+
+The creature that killed Wesley Boone was meant to lure Nox back to New Everlight.
+* The creature was sent by [[Actual Play/Fractured Veil/NPCs#The Shadow Witch\|The Shadow Witch]].
+

@@ -229,6 +229,8 @@ This is your game, and you should play it how you want to. This is what I do.
 
 Sometimes I create a simple map in a 5x5 grid or a larger map in a 10x10 grid.  Sometimes I have a hex map made in my favorite map making software. Sometimes I don't have a map at all. It's up to you to decide how to do it.  But you don't need any of it. You can just ask the oracle and tell your story.
 
+## Starting a Scene
+
 ## Example Actual Play
 >[!note]
 > AI was used in the set up of this actual play and is only included as an example. **The Story Mode App does not include any AI**.

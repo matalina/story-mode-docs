@@ -7,22 +7,26 @@
 > [!tip] Creature Sentence
 >  \[Name] is a (Level \[level]) \[disposition] \[descriptor] \[type] who \[motivation] from \[realm] and does \[basic attack] damage.
 
-## B
+## D
 
-Bloom Dragon is **cunning** **ethereal** **fey-dragon** who **changes its form** from **the Wyld** does **chaos** damage.
-{ #df55ba}
+Dreambound Lion Serpent is a **relentless** **shifting** **Chimera** who **inflicts suffering** from **the Wyld** and does **Toxic (venom)** damage.
 
+## F
 
-## G
-
-Glimmerpaw is a **curious** **ethereal** **fey-cat** who **explores endlessly** from **the Wyld** and does **chaos** damage.
-{ #1651a2}
+Forsaken Shade is a **melancholy** **whispering** **undead** who **feeds on life-force** from **the Iron Veil** and does **toxic (disease)** damage.
+{ #074d57}
 
 
-## I
+## L
 
-Ironclaw (aka Tainted Glimmerpaw) is a **corrupted** **iron-infused** **fey-cat** who **destroys magic** from **the Iron Veil** does **toxic** damage.
+Luminous Crawler is a **feral** **hallow** **plant** who feeds on life-force from **the Wyld** and does **Chaos** damage.
 
-## T
+## R
 
-Tainted Glimmerpaw (aka Ironclaw) is a **corrupted** **iron-infused** **fey-cat** who **destroys magic** from **the Iron Veil** does **toxic** damage.
+Revenant Flesh Golem is a **vicious** **weathered** **Golem** who **fixates obsessively** from **the Nether** and does **physical** damage.
+{ #dd4e1c}
+
+
+## V
+
+Vengeful Nightstalker is a **malevolent** **twisted** **shadow** who seeks a host from **the Nether** and does **psychic** damage.

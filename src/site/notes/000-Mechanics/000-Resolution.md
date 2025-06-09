@@ -4,7 +4,7 @@
 
 # Resolution 
 
-The basic resolution mechanic of Story Mode is to roll against a set Level for whatever task you are preforming. A player may use any appropriate tag on their character sheet to [[000-Mechanics/000-Resolution#Modifying the Difficulty\|modify]] the level of the task.
+The basic resolution mechanic is to roll against a set Level for whatever task you are preforming. A player may use any appropriate tag on their character sheet to [[#Modifying the Difficulty|modify]] the level of the task.
 
 A player then rolls a 1d20 against the DC. The DC is equal to 3 times the Level of the task.
 
@@ -147,19 +147,15 @@ Remember that the target number to hit is 3 times the level, so the target numbe
 
 ## Levels of Difficulty
 
-| Level | DC  | Description  |
-| ----- | --- | ------------ |
-| 0     | 0   | Routine      |
-| 1     | 3   | Simple       |
-| 2     | 6   | Standard     |
-| 3     | 9   | Demanding    |
-| 4     | 12  | Difficult    |
-| 5     | 15  | Challenging  |
-| 6     | 18  | Intimidating |
-| 7     | 21  | Formidable   |
-| 8     | 24  | Heroic       |
-| 9     | 27  | Immortal     |
-| 10    | 30  | Impossible   |
+| Level | DC  | Description | Level | DC  | Description  |
+| ----- | --- | ----------- | ----- | --- | ------------ |
+| 0     | 0   | Routine     | 5     | 15  | Challenging  |
+| 1     | 3   | Simple      | 6     | 18  | Intimidating |
+| 2     | 6   | Standard    | 7     | 21  | Formidable   |
+| 3     | 9   | Demanding   | 8     | 24  | Heroic       |
+| 4     | 12  | Difficult   | 9     | 27  | Immortal     |
+|       |     |             | 10    | 30  | Impossible   |
+
 ## Special Resolution Tables
 
 ### Oracle Table
@@ -226,7 +222,7 @@ This table is provided if you want to include crafting as part of your game.
 | DC to DC+4   | Success      | Successfully crafted the item as                                              |
 | DC+5 +       | Success, and | Successfully crafted the item better than expected                            |
 
-#### Navigatio Table
+#### Navigation Table
 
 This table is provided if you want to have navigation exploration situations in your game.
 
@@ -237,3 +233,22 @@ This table is provided if you want to have navigation exploration situations in 
 | DC-5 to DC-1 | Success, but | You successfully navigate, but you aren't sure you are going in the right direction |
 | DC to DC+4   | Success      | You successfully navigate                                                           |
 | DC+5 +       | Success, and | You successfully navigate and find proof you are heading in the right direction     |
+
+# Cheat Sheet
+
+| Level        | 1      | 2      | 3      | 4      | 5      |
+| ------------ | ------ | ------ | ------ | ------ | ------ |
+| **DC**       | **3**  | **6**  | **9**  | **12** | **15** |
+| 1            | 1      | 1      | 1      | 1      | 1      |
+| 2 to DC-6    | 2      | 2      | 2-3    | 2-6    | 2-9    |
+| DC-5 to DC-1 | -      | 3-5    | 4-8    | 7-11   | 10-14  |
+| DC to DC+4   | 3-7    | 6-10   | 9-13   | 12-16  | 15-19  |
+| DC+5 +       | 8+     | 11+    | 14+    | 17+    | 20+    |
+| **Level**    | **6**  | **7**  | **8**  | **9**  | **10** |
+| **DC**       | **18** | **21** | **24** | **27** | **30** |
+| 1            | 1      | 1      | 1      | 1      | 1      |
+| 2 to DC-6    | 2-12   | 2-15   | 2-18   | 2-21   | 2-24   |
+| DC-5 to DC-1 | 13-17  | 16-20  | 19-23  | 22-26  | 25-29  |
+| DC to DC+4   | 18-22  | 21-25  | 24-28  | 27-31  | 30-34  |
+| DC+5 +       | 23+    | 26+    | 29+    | 32+    | 35+    |
+

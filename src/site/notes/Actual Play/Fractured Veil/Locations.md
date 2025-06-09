@@ -38,6 +38,13 @@ See [[Actual Play/Fractured Veil/New Everlight/Places/Cafe Noir\|Café Noir]]
 ### Ironbound Hunters, LLC
 [[Actual Play/Fractured Veil/New Everlight/Everlight Commons\|Everlight Commons]] - 3.9
 
+## N
+
+### The Neon Carnival
+[[Actual Play/Fractured Veil/New Everlight/The Neon Quarter\|The Neon Quarter]] - 4.1
+
+An amusement park
+
 ## P
 
 ### Pinnacle Freight
