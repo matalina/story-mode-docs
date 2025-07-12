@@ -4,8 +4,8 @@
 
 # Details
 
-*Alex Home:* [[Actual Play/Fractured Veil/Setting#9.8\|9.8]]  
-*Alex's Work:* [[Actual Play/Fractured Veil/Setting#3.9\|3.9]]
+*Alex Home:* [[000-Full Game/200aaa-Elysium Heights\|200aaa-Elysium Heights]]   
+*Alex's Work:* Ironbound Hunters LLC in [[000-Full Game/200aaa-Everlight Commons\|200aaa-Everlight Commons]]
 
 _Wealth:_ 3 (Above)
 * Comfortable single bedroom apartment (3)
@@ -18,16 +18,16 @@ _MAI:_ 7
 ## Summary
 
 * Alex is 53 (Young Adult Drakari)
-* Alex is born into the Flame Wardens. His [[Actual Play/Fractured Veil/NPCs#Freya Alaric\|mother]] is the leader.
+* Alex is born into the Flame Wardens. His [[Actual Play/Creations/NPCs#Freya Alaric\|mother]] is the leader.
 * Alex always wanted to be a singer. He went to the July 4th, 1985 celebration at 12 to busk for the first time. He was booed and hissed at and totally discouraged. When the chaos erupted Alex transformed in the case figuring no one would notice revealing the existence of Dragons to the world. Because of this event Alex sought out an Aelith to grant him a wish -- to have the most beautiful voice.
-    * Owner: [[Actual Play/Fractured Veil/NPCs#Lucian Vaelric\|Lucian Vaelric]]
+    * Owner: [[Actual Play/Creations/NPCs#Lucian Vaelric\|Lucian Vaelric]]
     * Beneficiary: Alex
     * Gift: the most beautiful voice -- Has a Gilded Voice
     * Debt/Terms: A lifetime of servitude -- one day a year
 * Alex is a Bounty Hunter, against his mother's wishes. He does it for the thrill of the hunt and especially for the money it pays.
     * Alex's father was killed by a member of the Ashen Legion, who was also wanted by the Ferai law and had a bounty on his head. Alex killed the man in defense of his own life. This is how he met his current boss and became a bounty hunter.
         * Alex's father left him everything in his hoard (animal shaped jewelry from faux to ungodly expensive)
-* After gaining his voice Alex tried to become that rockstar he aspired to be, but with first show the fans and the power he set in motion a dangerous cascade of debts he owed to a Nether Fiend.
+* After gaining his voice Alex found that while it was beautiful sounding it came with more power and he could persuade people easily. Alex started conning and grifting people and then became a bounty hunter when he found it more lucrative.
 
 ## Description
 
@@ -43,6 +43,6 @@ _Attire:_ Alex wears mostly black jeans and old heavy metal band concert t-shirt
 
 ## Favorites
 
-Coffeeshop: [[Actual Play/Fractured Veil/New Everlight/Places/Cafe Noir\|Café Noir]]
-Coffee: [[Actual Play/Fractured Veil/New Everlight/Places/Cafe Noir#The Private Eye\|The Private Eye]] with a shot of [[Actual Play/Fractured Veil/New Everlight/Places/Cafe Noir#Shadowslip\|Shadowslip]]
+Coffeeshop: [[000-Full Game/200da-Cafe Noir\|Café Noir]]
+Coffee: [[000-Full Game/200da-Cafe Noir#The Private Eye\|The Private Eye]] with a shot of [[000-Full Game/200da-Cafe Noir#Shadowslip\|Shadowslip]]
 Color: Black
