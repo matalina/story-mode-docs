@@ -72,7 +72,6 @@ Most items will have a Cost level and not an exact amount. You can use the chart
 > You want to purchase a new fangled smartphone. A smart phone is an Expensive item and your wealth is 3. So you need to roll to see if you can successfully purchase it.
 > 
 > You roll against a level 3 plus zero since it is not above your wealth score.  Rolling a 12 you pass the check and purchase the cell phone.  Your wealth is decreased by 1 or you can take on debt to purchase the item.
-> 
 
 ## Income
 

@@ -34,4 +34,4 @@ When healed the Lasting Scar does not regenerate missing body parts. The charact
 
 ## Healing
 
-Healing Magic is always a ritual. A default healing spell starts at 1 minute and
+Healing Magic is always a ritual and cannot be cast in combat.

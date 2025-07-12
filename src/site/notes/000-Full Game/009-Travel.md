@@ -28,8 +28,6 @@ The number of Points is limited.
 
 Define the type of map you want to use.  We will be using a 7x7 square tile map. But the method for set up is the same but the numbers will change.
 
-## Map Setup
-
 ### Urban
 
 | Abbr | District Types        | Number of Tiles |
@@ -65,8 +63,6 @@ Define the type of map you want to use.  We will be using a 7x7 square tile map.
 | Portal            | -          | -         |
 | Home              | -          | -         |
 | Guild/Home/Castle | -          | -         |
-
-
 ## Wilderness & Urban 
 
 | Terrain Difficult | Movement Rules                                                                                                                                                               |
